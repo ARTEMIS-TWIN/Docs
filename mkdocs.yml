@@ -1,0 +1,23 @@
+
+site_name: ARTEMIS-TWIN Documentation
+site_url: https://ARTEMIS-TWIN.github.io/docs/
+site_author: ARTEMIS contributors
+site_description:
+repo_name: ARIADNE-Infrastructure/docs
+repo_url: https://github.com/ARTEMIS-TWIN/docs
+copyright: ARTEMIS TWIN
+theme:
+  name: material
+  features:
+    - navigation.sections    # Groups top-level sections in sidebar
+    - navigation.instant     # Faster page transitions
+    - navigation.top         # Back-to-top button
+markdown_extensions:
+  - attr_list
+
+
+nav:
+  - Home: index.md
+  - User Guide:
+    - Introduction: <filename>.md
+   
