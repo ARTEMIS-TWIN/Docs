@@ -79,7 +79,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - The comparison across monitoring tools (**Table 1**) shows differentiated patterns of difficulty: **environmental sensors** are mainly associated with **high costs**, **data loggers** with maintenance burdens, and **continuous monitoring systems** with data interpretation challenges, suggesting a potential gap between technological capability and organisational capacity.
 
 <div align="center">
-  <img src="assets/tables/table-01-monitoring-tools-vs-challenges.png" width="900">
+  <img src="assets/tables/table-01-cross-monitoring-challenges.png" width="900">
   <p><em>Table 1. Monitoring tools vs. monitoring challenges among Conservator/Restorer respondents.</em></p>
 </div>
 
@@ -88,7 +88,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Respondents who use **3D models** (**Table 2**) report significant challenges related to **costs**, **institutional support**, and **integration with traditional documentation practices**. These patterns suggest that 3D adoption is associated with organisational and infrastructural demands that remain only partially supported.
 
 <div align="center">
-  <img src="assets/tables/table-02-3d-models-vs-integration-challenges.png" width="900">
+  <img src="assets/tables/table-02-cross-3d-integration.png" width="900">
   <p><em>Table 2. Use of 3D models vs. integration challenges among Conservator/Restorer respondents.</em></p>
 </div>
 
