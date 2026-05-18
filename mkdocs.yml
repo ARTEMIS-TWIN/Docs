@@ -26,6 +26,7 @@ nav:
       - General Results: survey/02-general-results.md
 
       - Profile-Specific Results:
+          - Overview: survey/03-profile-specific-results.md
           - Conservator / Restorer: survey/03-01-conservator-restorer.md
           - Heritage Scientists: survey/03-02-heritage-scientists.md
           - Architect / Built Heritage Specialist: survey/03-03-architect-built-heritage-specialist.md
