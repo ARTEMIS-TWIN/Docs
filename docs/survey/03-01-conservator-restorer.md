@@ -76,20 +76,20 @@ These insights derive from comparative cross-tabulations across the profile-spec
 
 - The cross-tabulation confirms a coherent alignment between the type of technologies used and the corresponding categories of scientific data handled, rather than a clear expansion in the overall diversity of data types.
 
-- The comparison across monitoring tools (**Table 1**) shows differentiated patterns of difficulty: **environmental sensors** are mainly associated with **high costs**, **data loggers** with maintenance burdens, and **continuous monitoring systems** with data interpretation challenges, suggesting a potential gap between technological capability and organisational capacity.
+- The comparison across monitoring tools (**Figure 8**) shows differentiated patterns of difficulty: **environmental sensors** are mainly associated with **high costs**, **data loggers** with maintenance burdens, and **continuous monitoring systems** with data interpretation challenges, suggesting a potential gap between technological capability and organisational capacity.
 
 <div align="center">
   <img src="assets/tables/table-01-cross-monitoring-challenges.png" width="900">
-  <p><em>Table 1. Monitoring tools vs. monitoring challenges among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 8. Monitoring tools vs. monitoring challenges among Conservator/Restorer respondents.</em></p>
 </div>
 
 - While specialised formats are used for specific data types (such as scientific imaging and 3D scans), unstructured files remain systematically present across all categories. This suggests that documentation-driven practices continue to play a central role, with structured data often being re-integrated into narrative formats, potentially constraining full interoperability. The very low adoption of standards observed across the profile reinforces the broader picture of structural fragmentation. Even among respondents who use advanced imaging or 3D tools, the limited use of shared protocols coexists with the persistent reliance on unstructured formats, potentially weakening interoperability across workflows.
 
-- Respondents who use **3D models** (**Table 2**) report significant challenges related to **costs**, **institutional support**, and **integration with traditional documentation practices**. These patterns suggest that 3D adoption is associated with organisational and infrastructural demands that remain only partially supported.
+- Respondents who use **3D models** (**Figure 9**) report significant challenges related to **costs**, **institutional support**, and **integration with traditional documentation practices**. These patterns suggest that 3D adoption is associated with organisational and infrastructural demands that remain only partially supported.
 
 <div align="center">
   <img src="assets/tables/table-02-cross-3d-integration.png" width="900">
-  <p><em>Table 2. Use of 3D models vs. integration challenges among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 9. Use of 3D models vs. integration challenges among Conservator/Restorer respondents.</em></p>
 </div>
 
 - Across respondents, simulations are consistently associated with structural constraints, particularly **costs** and **institutional support**. Even among active users, simulation practices are not frictionless, suggesting that organisational conditions remain a key factor in their broader adoption.
