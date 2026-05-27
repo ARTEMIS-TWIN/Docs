@@ -2,6 +2,9 @@
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab
 
+[VR–AR specialist – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1068924566#gid=1068924566)
+
+
 This profile includes **15 respondents**. VR/AR specialists represent a small but highly technical group within the survey. Their workflows combine immersive technologies, 3D content creation, and interactive experience design, but adoption patterns vary widely depending on project scale, available data, and institutional support. The limited number of respondents means patterns must be interpreted cautiously, yet several consistent trends do emerge.
 
 ## 3.9.1 Digital tools, data acquisition, monitoring, challenges
@@ -62,6 +65,8 @@ Expectations for a **Reactive Digital Twin** focus on dynamic capabilities such 
 ## 3.9.6 Cross–analysis insights
 
 All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab
+
+[VR–AR specialist – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1032894981#gid=1032894981)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
