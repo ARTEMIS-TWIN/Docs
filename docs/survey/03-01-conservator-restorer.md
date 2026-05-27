@@ -91,7 +91,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 
 <div align="center">
   <img src="assets/figures/figure-09-cross-3d-integration.png" width="900">
-  <p><em>Figure 9. Use of 3D models vs. integration challenges among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 9. Cross-tabulation (use of 3 models vs. integration challenges).</em></p>
 </div>
 
 - Across respondents, simulations are consistently associated with structural constraints, particularly **costs** and **institutional support**. Even among active users, simulation practices are not frictionless, suggesting that organisational conditions remain a key factor in their broader adoption.
