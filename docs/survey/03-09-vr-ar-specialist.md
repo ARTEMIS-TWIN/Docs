@@ -1,8 +1,6 @@
-# VR–AR specialist
+# 3.9 VR–AR specialist
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab
-
-[VR–AR specialist – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1068924566#gid=1068924566)
 
 This profile includes **15 respondents**. VR/AR specialists represent a small but highly technical group within the survey. Their workflows combine immersive technologies, **3D content creation**, and interactive experience design, but adoption patterns vary widely depending on project scale, available data, and institutional support. The limited number of respondents means patterns must be interpreted cautiously, yet several consistent trends do emerge.
 
@@ -14,7 +12,7 @@ Real–time data use is limited: most respondents work with static or pre–reco
 
 Practices to monitor performance, usage or experience of VR/AR applications follow the same trend: some professionals use interaction–tracking or performance–monitoring tools, but a comparable share does not rely on any digital monitoring system at all.
 
-The challenges reported when working with data are primarily **technical and infrastructural** (**Figure 36**). Respondents cite platform constraints, data interoperability issues, and the substantial time required for data preparation and cleaning. Additional difficulties include limited access to accurate or high–quality reference data and institutional barriers to obtaining source material. Notably, no respondent indicated an absence of challenges, underscoring the persistent complexity of VR/AR work in the heritage sector.
+The challenges reported when working with data are primarily technical and infrastructural (**Figure 36**). Respondents cite platform constraints, data interoperability issues, and the substantial time required for data preparation and cleaning. Additional difficulties include limited access to accurate or high–quality reference data and institutional barriers to obtaining source material. Notably, no respondent indicated an absence of challenges, underscoring the persistent complexity of VR/AR work in the heritage sector.
 
 <div align="center">
   <img src="assets/figures/figure-36-working-with-data-main-challenges.png" width="700">
@@ -25,20 +23,22 @@ The challenges reported when working with data are primarily **technical and inf
 
 VR/AR specialists work with a focused but technically demanding set of data types. **3D models** are the central asset, forming the foundation of most immersive experiences, and are commonly complemented by photographic material, audiovisual content, and selected historical or archival sources. Only a small minority engage with sensor–based or interaction data, reflecting the predominantly static nature of current VR/AR production pipelines.
 
-The formats landscape is relatively narrow and structured around **3D file formats** and **game engine project files**, with standard multimedia supporting core assets. In contrast, metadata standards, motion-capture formats, and spatial-audio formats are rarely used. This indicates that immersive outputs rely on a concentrated technical stack, with limited diversification of underlying data structures.
+The formats used to deliver content are similarly specialised (**Figure 37**): 3D model formats and game–engine project files dominate, together with standard multimedia resources needed for narration and visual support. Metadata files are used by part of the group, while motion–capture or spatial–audio formats are largely absent, suggesting that high–end immersive pipelines are not yet widespread in heritage–focused projects.
 
 <div align="center">
   <img src="assets/figures/figure-37-data-formats.png" width="700">
-  <p><em>Figure 37. Data formats.</em></p>
+  <p><em>Figure 37. Data format.</em></p>
 </div>
+ 
+Standards adoption remains limited. Apart from glTF, which emerges as the closest thing to a shared exchange format, only a few respondents report using structured models such as CIDOC CRM or X3D/WebXR. A substantial portion does not use any interoperability standards at all, highlighting an ecosystem where technical practice is advanced but still loosely connected to broader cultural heritage data frameworks.
 
-## 3.9.3 Data accessibility, collaboration, and sharing challenges
+## 3.9.3 Data accessibility, collaboration, and sharing 
 
-Data accessibility among VR/AR specialists is uneven: some respondents work within structured and searchable digital systems, while many rely on assets distributed across multiple repositories or software environments. 
+VR/AR specialists manage data that is only partially structured: while a few rely on formal digital systems, most work with materials dispersed across different platforms or stored in semi–structured formats. Fully unstructured or physical records still appear in several cases, reflecting workflows where technical production moves faster than institutional data governance.
 
-Collaborative platforms are commonly used within project workflows, both through institutional systems and external platforms, reflecting the multidisciplinary and production-oriented nature of immersive heritage work.
+Collaboration is common and tends to rely on external, flexible platforms such as GitHub, Trello, Slack or Notion, which better support iterative development and cross–disciplinary teamwork. Internal institutional platforms play a smaller role, though interest in adopting collaborative environments remains relatively high.
 
-Data-sharing challenges are widespread and primarily linked to **interoperability problems**, software compatibility, and the difficulty of preparing reusable immersive assets. Respondents also report barriers related to intellectual property, institutional restrictions, and limited access to high-quality source material.
+The main challenges in sharing data point to the hybrid nature of VR/AR heritage work. Professionals report limited interoperability, inconsistent standards for immersive content, and concerns around intellectual property when exchanging assets. The most widespread difficulty, however, is the gap between technical teams and heritage specialists, which complicates shared decision–making and slows down cross–disciplinary workflows. A minority reports no major obstacles.
 
 ## 3.9.4 3D models, simulations, and integration challenges
 
@@ -62,8 +62,6 @@ Expectations for a **Reactive Digital Twin** focus on dynamic capabilities such 
 ## 3.9.6 Cross–analysis insights
 
 All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab
-
-[VR–AR specialist – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1032894981#gid=1032894981)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
