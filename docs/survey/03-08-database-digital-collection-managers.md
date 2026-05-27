@@ -11,7 +11,7 @@ Database and digital collection managers operate at the intersection of data cur
 Respondents rely primarily on database environments and semantic web tools (Figure 31), with relational databases emerging as the core infrastructure supporting their work. Metadata editing platforms and linked–data technologies are also widely used, signalling a strong orientation toward structured, interoperable collection management rather than digitization itself. Traditional CMS/DAMS tools appear in a smaller portion of the sample, reflecting the technical diversity of institutional setups.
 
 <div align="center">
-  <img src="assets/figures/figure-31-digital-tools.png" width="700">
+  <img src="assets/figures/figure-31-digital-tools-or-technologies.png" width="700">
   <p><em>Figure 31. Digital tools or technologies.</em></p>
 </div>
 
@@ -30,7 +30,7 @@ The formats in which these data are stored reinforce this picture: structured me
 The adoption of standards is uneven but substantial (Figure 32). CIDOC CRM and semantic–web frameworks are among the most widely used, followed by IIIF, OAI–PMH, and general metadata standards such as Dublin Core. Only a small group reports not using any formal standards, underlining the professional orientation of this profile toward long–term interoperability and structured data governance.
 
 <div align="center">
-  <img src="assets/figures/figure-32-standards-protocols.png" width="700">
+  <img src="assets/figures/figure-32-standard-or-protocols.png" width="700">
   <p><em>Figure 32. Standard or protocols.</em></p>
 </div>
 
@@ -39,7 +39,7 @@ The adoption of standards is uneven but substantial (Figure 32). CIDOC CRM and s
 Digital collection managers operate in environments where structured, searchable systems are the norm (Figure 33). Most respondents work within well–defined digital repositories or database–driven platforms, though a smaller group still faces fragmentation across multiple systems. Fully unstructured or non–digital holdings are essentially absent in this profile, confirming its high level of digital maturity.
 
 <div align="center">
-  <img src="assets/figures/figure-33-data-accessibility.png" width="700">
+  <img src="assets/figures/figure-33-data-structure-and-accessibility.png" width="700">
   <p><em>Figure 33. Data structure and accessibility.</em></p>
 </div>
 
@@ -62,7 +62,7 @@ A Reactive Digital Twin is expected to provide practical, workflow–oriented su
 Looking ahead, respondents remain divided (Figure 34): some foresee a central role for Digital Twins in future preservation and data–management strategies, while others expect adoption to remain limited to specific use cases. Cost, institutional complexity, and uneven digital capacity are perceived as the main obstacles to widespread uptake.
 
 <div align="center">
-  <img src="assets/figures/figure-34-future-digital-twin.png" width="700">
+  <img src="assets/figures/figure-34-future-evolution-of-digital-twin.png" width="700">
   <p><em>Figure 34. Future evolution of Digital Twin.</em></p>
 </div>
 
@@ -83,7 +83,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Sharing remains constrained primarily by infrastructural limitations (Figure 35), interoperability issues, and the workload required to prepare reusable datasets. Compatibility and platform adequacy are particularly salient among institutions already using collaborative platforms, while time and staff constraints weigh more heavily on those not yet sharing but expressing interest. Across groups, intellectual property concerns consistently rank lower than technical and organisational barriers.
 
 <div align="center">
-  <img src="assets/figures/figure-35-sharing-difficulties.png" width="900">
+  <img src="assets/figures/figure-35-use-of-collaborative-platforms-vs-data-sharing-difficulties.png" width="900">
   <p><em>Figure 35. Cross-tabulation (use of collaborative platforms vs.data sharing difficulties).</em></p>
 </div>
 
