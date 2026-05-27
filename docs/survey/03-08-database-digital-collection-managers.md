@@ -1,90 +1,88 @@
-# Database managers and ICT specialists
+# Database and digital collection managers
 
-Full visualisations for this profile are available in the dedicated Google Sheets tab.
+Full visualisations for this profile are available in the dedicated Google Sheets tab
 
-This profile includes **29 respondents**. Database managers and ICT specialists represent the most infrastructure–oriented group in the survey, focusing on the design, maintenance, integration and governance of digital systems supporting cultural heritage data. Their work spans database administration, interoperability frameworks, cloud infrastructures, APIs, semantic modelling and digital platform management. Compared with other profiles, respondents in this group show the strongest engagement with structured data environments and interoperability concerns.
+Database and digital collection managers operate at the intersection of data curation, metadata structuring, and long–term accessibility. Their role is centred on maintaining the integrity, interoperability, and sustainability of digital heritage records, with a strong emphasis on standardised data models, controlled vocabularies, and system integration. The 28 responses reflect a group with a high level of technical responsibility and a clear awareness of the infrastructural demands of digital preservation.
 
-## 3.8.1 Digital infrastructures, monitoring and system management
+## 3.8.1 Use of digital tools, collection workflows, and monitoring practices
 
-Database managers and ICT specialists rely on a broad ecosystem of digital infrastructures centred on **databases**, **cloud platforms**, **APIs**, and **data–management systems**. Relational and non-relational databases, metadata repositories, and interoperability frameworks form the backbone of their workflows, while GIS platforms, linked–data environments and semantic technologies appear frequently among more advanced users.
-
-Unlike many other professional groups, respondents in this profile are strongly oriented toward structured and automated workflows. Data collection and updating processes often rely on APIs, synchronised repositories or scheduled ingestion pipelines, while real–time monitoring and automated logging are significantly more widespread than in the rest of the survey population.
-
-Monitoring practices focus on system integrity, metadata consistency, server reliability and interoperability performance. Respondents frequently employ dashboards, automated alerts, backup systems and validation procedures to supervise data quality and accessibility.
-
-The main difficulties concern scalability, interoperability and organisational fragmentation. Respondents point to incompatibilities between legacy systems, inconsistent metadata structures, and the complexity of integrating heterogeneous institutional datasets. Limited institutional coordination and insufficient long–term planning also emerge as persistent barriers to maintaining coherent digital infrastructures.
-
-## 3.8.2 Data types, formats and interoperability standards
-
-Database managers and ICT specialists work with an extremely heterogeneous range of information (**Figure 31**), reflecting their role as integrators across institutional ecosystems. Their datasets combine metadata records, geospatial information, multimedia files, 3D models, sensor outputs, administrative data and linked semantic resources.
+Respondents rely primarily on database environments and semantic web tools (Figure 31), with relational databases emerging as the core infrastructure supporting their work. Metadata editing platforms and linked–data technologies are also widely used, signalling a strong orientation toward structured, interoperable collection management rather than digitization itself. Traditional CMS/DAMS tools appear in a smaller portion of the sample, reflecting the technical diversity of institutional setups.
 
 <div align="center">
-  <img src="assets/figures/figure-31-data-type.png" width="700">
-  <p><em>Figure 31. Data type.</em></p>
+  <img src="assets/figures/figure-31-digital-tools.png" width="700">
+  <p><em>Figure 31. Digital tools or technologies.</em></p>
 </div>
 
-Compared with most other profiles, this group shows the strongest adoption of structured formats. XML, JSON, RDF, SQL databases and API–driven formats are widely used alongside standard document and multimedia files. However, proprietary formats and fragmented local structures remain common, especially when integrating external institutional repositories.
+Data ingestion workflows vary considerably: most institutions rely on mixed pipelines combining batch imports, manual uploads, and automated processes where available. Fully real–time ingestion remains rare, underscoring the limited penetration of sensor–based or automated acquisition in this professional area.
 
-Interoperability standards are significantly more established than in other profiles. Respondents report using **CIDOC CRM**, **Dublin Core**, **IIIF**, **Linked Open Data frameworks**, **OGC standards**, and API specifications. Nevertheless, adoption remains uneven across institutions, and several respondents note that standardisation efforts are often constrained by legacy systems or limited organisational support.
+Practices to monitor status, access and integrity are heterogeneous. Some respondents employ repository systems with built–in monitoring functions, while others use metadata validation tools, audit utilities, or preservation–oriented file integrity checks. However, a substantial share reports not using any digital monitoring tools at all, indicating uneven adoption across institutions.
 
-## 3.8.3 Data accessibility, collaborative systems and sharing barriers
+Monitoring and managing challenges cluster around the complexity of managing heterogeneous data ecosystems. Issues include incompatible formats, inconsistent metadata, and difficulties connecting internal databases with external platforms. Limited staff capacity and gaps in training further complicate workflows, while only a small minority report no major obstacles.
 
-Data accessibility among database managers and ICT specialists is comparatively high (**Figure 32**). Many respondents work within structured, searchable repositories or institution–wide infrastructures, though fragmented storage across multiple disconnected systems remains a widespread issue. Cloud–based solutions and shared repositories are common, but fully unified environments remain relatively rare.
+## 3.8.2 Data types, formats, and standards
+
+Database and collection managers work with a wide spectrum of digital heritage data, but the core of their activity is clearly metadata–centred. Structured cataloguing records, linked data resources, scientific datasets, and geospatial information form the backbone of the collections they maintain, while high–resolution images, archival documentation, and 3D assets complement this technical landscape. The diversity of materials reflects the cross–institutional nature of their workflows and the need to accommodate different disciplinary inputs.
+
+The formats in which these data are stored reinforce this picture: structured metadata formats (XML, JSON, RDF) and relational databases are the most common foundations of their digital ecosystems. Unstructured files and multimedia formats remain widespread, indicating that many institutions still operate hybrid workflows. Linked Open Data formats are also well represented, confirming the move toward interoperable and publishable datasets, while proprietary formats persist in specialised contexts.
+
+The adoption of standards is uneven but substantial (Figure 32). CIDOC CRM and semantic–web frameworks are among the most widely used, followed by IIIF, OAI–PMH, and general metadata standards such as Dublin Core. Only a small group reports not using any formal standards, underlining the professional orientation of this profile toward long–term interoperability and structured data governance.
 
 <div align="center">
-  <img src="assets/figures/figure-32-data-accessibility.png" width="700">
-  <p><em>Figure 32. Data accessibility.</em></p>
+  <img src="assets/figures/figure-32-standards-protocols.png" width="700">
+  <p><em>Figure 32. Standard or protocols.</em></p>
 </div>
 
-Collaborative platforms and shared digital workspaces are extensively used, particularly through institutional systems and interoperability frameworks connecting multiple repositories. Open–source infrastructures and Git–based collaboration environments also appear more frequently in this profile than in others.
+## 3.8.3 Data accessibility and data sharing
 
-Despite this advanced infrastructure, data–sharing challenges remain substantial (**Figure 33**). The most widespread problems concern interoperability between systems, metadata inconsistencies, and institutional fragmentation. Legal and intellectual property issues are present but less dominant than technical and organisational barriers. Respondents also highlight the difficulty of maintaining sustainable infrastructures over time, especially when long–term funding or institutional commitment is uncertain.
+Digital collection managers operate in environments where structured, searchable systems are the norm (Figure 33). Most respondents work within well–defined digital repositories or database–driven platforms, though a smaller group still faces fragmentation across multiple systems. Fully unstructured or non–digital holdings are essentially absent in this profile, confirming its high level of digital maturity.
 
 <div align="center">
-  <img src="assets/figures/figure-33-sharing-challenges.png" width="700">
-  <p><em>Figure 33. Main difficulties in sharing data.</em></p>
+  <img src="assets/figures/figure-33-data-accessibility.png" width="700">
+  <p><em>Figure 33. Data structure and accessibility.</em></p>
 </div>
 
-## 3.8.4 3D models, simulations and system integration
+Collaboration is equally embedded in their workflows. Many rely on institutional platforms, while a substantial share also uses external or open–source environments such as Europeana, GitHub, or Wikidata to facilitate data exchange, aggregation, or publication.
 
-Database managers and ICT specialists interact with **3D models** and **digital simulations** primarily as data infrastructures rather than as interpretative or visualisation tools. Many respondents manage storage, interoperability, or dissemination pipelines for 3D assets, even when they are not directly involved in producing them.
+The barriers they encounter are largely infrastructural and organisational rather than technical. Inadequate infrastructures for data sharing, compatibility issues, and limited staff capacity to prepare reusable datasets emerge as the most widespread obstacles. Institutional or legal restrictions and intellectual–property concerns further complicate cross–platform exchange. Only a negligible number of respondents reports no significant barriers, highlighting the structural nature of these constraints.
 
-3D models are widely handled within repositories, cloud environments or APIs, while simulations are more selectively integrated, typically in projects involving Digital Twins, monitoring systems or predictive analytics.
+## 3.8.4 Use of 3D, simulations, and integration challenges
 
-The main integration challenges concern scalability and compatibility. Respondents frequently report difficulties synchronising heterogeneous systems, integrating real–time data streams, and ensuring long–term preservation of complex digital assets. Metadata harmonisation and semantic consistency also emerge as critical issues, especially when data originate from multiple institutions or disciplines. Compared with other profiles, resistance to digital technologies is reported less frequently, suggesting that the obstacles are primarily infrastructural rather than cultural.
+Use of advanced digital technologies among collection managers is present but uneven. A consistent group works with 3D models – mostly occasionally rather than routinely – while others express interest but have not yet adopted these tools. Digital simulations remain far less established, with most respondents either unfamiliar with them or simply not using them in their current workflows.
 
-## 3.8.5 Digital Twins and future infrastructures
+The main integration challenges point clearly to systemic and institutional factors. Interoperability gaps between platforms and standards are the most frequently cited issue, followed closely by difficulties in reconciling legacy data with newer systems. Limited resources – both in terms of staff time and technical support – further hinder integration efforts, particularly when major data migrations or cross–departmental coordination are required. Training gaps and fragmentation of responsibilities across departments add additional layers of friction.
 
-Database managers and ICT specialists see **Digital Twins** primarily as integrated infrastructures for data interoperability, monitoring and decision support. Respondents emphasise the importance of linking heterogeneous datasets – sensor data, metadata, geospatial information, documentation and 3D assets – into unified, continuously updated systems.
+## 3.8.5 Expectations and perceived value of Digital Twins
 
-The most desired functionalities for Reactive Digital Twins (**Figure 34**) include real–time data synchronisation, interoperability between repositories, predictive analytics, automated alerts, and integrated dashboards for system monitoring. Respondents also value version control, semantic consistency and long–term preservation mechanisms, reflecting a strong infrastructure–oriented perspective on Digital Twin ecosystems.
+Collection managers identify the greatest potential of Digital Twins in improving accessibility, interoperability, and the integration of heterogeneous datasets. Respondents see strong value in tools that can unify diverse information streams – metadata, 3D assets, geospatial layers, documentation – into coherent, navigable environments. Collaboration across institutions is also viewed as a major opportunity, particularly where shared models could help harmonize standards and enable more consistent data reuse.
+
+A Reactive Digital Twin is expected to provide practical, workflow–oriented support rather than abstract simulations. Key expectations include the aggregation and visualization of multi–source data, automated alerts on metadata gaps or inconsistencies, and tools to guide preservation and curation strategies. Integration with semantic web infrastructures is another priority, reflecting the growing relevance of linked data in collection management.
+
+Looking ahead, respondents remain divided (Figure 34): some foresee a central role for Digital Twins in future preservation and data–management strategies, while others expect adoption to remain limited to specific use cases. Cost, institutional complexity, and uneven digital capacity are perceived as the main obstacles to widespread uptake.
 
 <div align="center">
-  <img src="assets/figures/figure-34-reactive-digital-twin-support.png" width="700">
-  <p><em>Figure 34. Information or support expected from Reactive Digital Twins.</em></p>
+  <img src="assets/figures/figure-34-future-digital-twin.png" width="700">
+  <p><em>Figure 34. Future evolution of Digital Twin.</em></p>
 </div>
 
-Future expectations are highly positive overall. Most respondents consider Digital Twins likely to become central infrastructures for cultural heritage data ecosystems, though several note that implementation will depend heavily on institutional investment, interoperability standards and sustainable governance models.
+## 3.8.6 Cross–analysis insights
 
-## 3.8.6 Cross analysis insights
-
-All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab.
+All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
-- Database managers and ICT specialists display the strongest alignment between digital technologies and structured data formats (**Figure 35**). Relational databases, APIs, semantic repositories and cloud systems are consistently associated with XML, JSON, RDF and SQL–based structures, indicating mature interoperability practices compared with most other profiles.
+- Collection managers work with highly heterogeneous datasets, spanning structured metadata, relational databases, geospatial layers, 3D models, and linked data. This reinforces the centrality of interoperability and explains why fragmentation remains one of the most persistent challenges.
+
+- Tools such as relational databases, linked data environments, metadata editors and harvesting platforms appear consistently associated with richer and more complex data ecosystems. These users manage the broadest variety of formats and produce the most structured outputs across the profile groups.
+
+- Data ingestion practices are uneven and predominantly non–real-time: across technologies, batch imports and hybrid approaches are more common than continuous automated pipelines, while fully real-time workflows remain marginal.
+
+- Sharing remains constrained primarily by infrastructural limitations (Figure 35), interoperability issues, and the workload required to prepare reusable datasets. Compatibility and platform adequacy are particularly salient among institutions already using collaborative platforms, while time and staff constraints weigh more heavily on those not yet sharing but expressing interest. Across groups, intellectual property concerns consistently rank lower than technical and organisational barriers.
 
 <div align="center">
-  <img src="assets/figures/figure-35-digital-technologies-vs-data-formats.png" width="900">
-  <p><em>Figure 35. Cross-tabulation (digital technologies vs. data formats).</em></p>
+  <img src="assets/figures/figure-35-sharing-difficulties.png" width="900">
+  <p><em>Figure 35. Cross-tabulation (use of collaborative platforms vs.data sharing difficulties).</em></p>
 </div>
 
-- Despite this higher level of standardisation, fragmented ecosystems remain widespread. Proprietary formats, disconnected repositories and inconsistent metadata schemas continue to coexist alongside structured infrastructures, especially in projects involving multiple institutions or legacy systems.
+- Users working with 3D models and simulations consistently report interoperability gaps and integration constraints. For 3D users, resource limitations are particularly salient among frequent adopters, whereas for simulations, barriers appear especially pronounced among those not yet using them but expressing interest. Legacy data alignment issues remain relevant across both groups.
 
-- Automated and real–time data pipelines are substantially more common in this profile than in others. APIs, synchronised repositories and monitoring dashboards are strongly associated with continuous data ingestion and system supervision, highlighting the infrastructural nature of ICT workflows.
-
-- Sharing barriers are predominantly technical and organisational rather than legal. Interoperability failures, metadata inconsistency and system fragmentation emerge as the dominant constraints, while intellectual property concerns play a comparatively smaller role.
-
-- Digital Twin expectations are deeply infrastructure–oriented. Respondents consistently prioritise interoperability, synchronisation and predictive monitoring capabilities over communication or storytelling functions, reinforcing the perception of Digital Twins as integrated data ecosystems rather than visualisation tools alone.
-
-- The strongest relationships in the cross–analysis emerge between semantic technologies, APIs and structured data environments, confirming that interoperability maturity depends not only on standards adoption but also on the existence of scalable governance and maintenance infrastructures.
+- Interest in Digital Twins concentrates on unifying distributed data, enhancing accessibility, and enabling cross–institutional collaboration. This integrative perspective is particularly evident among users working with 3D models. In the case of simulations, however, there is comparatively greater openness to reactive functions such as data aggregation, alerts, and preservation support, suggesting a more operational understanding of Digital Twin capabilities.
