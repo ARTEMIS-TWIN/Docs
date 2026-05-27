@@ -2,6 +2,8 @@
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab
 
+[Database and digital collection managers – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1998808695#gid=1998808695)
+
 Database and digital collection managers operate at the intersection of data curation, metadata structuring, and long–term accessibility. Their role is centred on maintaining the integrity, interoperability, and sustainability of digital heritage records, with a strong emphasis on standardised data models, controlled vocabularies, and system integration. The 28 responses reflect a group with a high level of technical responsibility and a clear awareness of the infrastructural demands of digital preservation.
 
 ## 3.8.1 Use of digital tools, collection workflows, and monitoring practices
@@ -67,6 +69,8 @@ Looking ahead, respondents remain divided (Figure 34): some foresee a central ro
 ## 3.8.6 Cross–analysis insights
 
 All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab
+
+[Database and digital collection managers – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=180020030#gid=180020030)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
