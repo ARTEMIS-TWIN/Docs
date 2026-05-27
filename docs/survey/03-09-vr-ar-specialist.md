@@ -44,9 +44,7 @@ The main challenges in sharing data point to the hybrid nature of VR/AR heritage
 
 ## 3.9.4 3D models, simulations, and integration challenges
 
-Use of **3D models** among VR/AR specialists is widespread and represents a central component of immersive heritage workflows. Respondents commonly rely on reconstructed environments, photogrammetric assets, and interactive scenes for interpretation and user engagement.
-
-**Digital simulations** are used less frequently but still represent a growing area of practice, with many respondents expressing interest even if not yet applying them directly.
+Most VR/AR specialists have hands–on experience with 3D models, which form the backbone of immersive heritage applications. **Digital simulations** are used less frequently but still represent a growing area of practice, with many respondents expressing interest even if not yet applying them directly.
 
 Integration challenges reflect the distance between immersive development workflows and institutional heritage systems (**Figure 38**). Limited staff training and technical expertise emerge as the most widespread barrier, followed by budget constraints that restrict experimentation with advanced tools. Respondents also point to difficulties aligning immersive outputs with curatorial or interpretive objectives and to uneven compatibility with existing infrastructures or databases. Only one participant reports no major obstacles, confirming that integration remains a structural challenge for VR/AR work in cultural heritage.
 
