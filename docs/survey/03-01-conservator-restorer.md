@@ -16,14 +16,14 @@ Condition monitoring practices (**Figure 4**) rely largely on **environmental se
 
 <div align="center">
   <img src="assets/figures/figure-04-digital-tools.png" width="700">
-  <p><em>Figure 4. Digital tools and monitoring practices among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 4. Digital tools or technologies.</em></p>
 </div>
 
 The main challenges in monitoring conditions (**Figure 5**) reported include the **high cost of equipment**, difficulties in maintaining digital tools, and the **complexity of interpreting diagnostic data**, especially when integrating digital and traditional conservation practices.
 
 <div align="center">
   <img src="assets/figures/figure-05-monitoring-challenges.png" width="700">
-  <p><em>Figure 5. Main challenges in monitoring conditions and preservation environments.</em></p>
+  <p><em>Figure 5. Main challenges monitoring conditions.</em></p>
 </div>
 
 ## 3.1.2 Data practices and data formats
@@ -50,7 +50,7 @@ Digital simulations (**Figure 6**) – such as modelling degradation or testing 
 
 <div align="center">
   <img src="assets/figures/figure-06-digital-simulation.png" width="700">
-  <p><em>Figure 6. Use of digital simulations among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 6. Digital Simulation usage.</em></p>
 </div>
 
 The main barriers to adopting these technologies are the **high cost of tools**, the **lack of training or technical expertise**, and difficulties in integrating digital data with traditional documentation methods. **Limited institutional support** and, to a lesser extent, **resistance to change** also hinder wider implementation.
@@ -65,7 +65,7 @@ Looking ahead, most conservators believe Digital Twins will be useful (**Figure 
 
 <div align="center">
   <img src="assets/figures/figure-07-future-digital-twin.png" width="700">
-  <p><em>Figure 7. Perceived future usefulness of Digital Twins among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 7. Future evolution of Digital Twin.</em></p>
 </div>
 
 ## 3.1.6 Cross-analysis insights
@@ -82,7 +82,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 
 <div align="center">
   <img src="assets/figures/figure-08-cross-monitoring-challenges.png" width="900">
-  <p><em>Figure 8. Monitoring tools vs. monitoring challenges among Conservator/Restorer respondents.</em></p>
+  <p><em>Figure 8. Cross-tabulation (monitoring tools vs. challenges). </em></p>
 </div>
 
 - While specialised formats are used for specific data types (such as scientific imaging and 3D scans), unstructured files remain systematically present across all categories. This suggests that documentation-driven practices continue to play a central role, with structured data often being re-integrated into narrative formats, potentially constraining full interoperability. The very low adoption of standards observed across the profile reinforces the broader picture of structural fragmentation. Even among respondents who use advanced imaging or 3D tools, the limited use of shared protocols coexists with the persistent reliance on unstructured formats, potentially weakening interoperability across workflows.
