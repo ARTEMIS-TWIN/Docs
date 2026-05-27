@@ -10,7 +10,7 @@ The survey collected **343 responses** from professionals across **33 countries*
 
 <div align="center">
   <img src="assets/figures/figure-01-chart.png" width="700">
-  <p><em>Figure 1. Geographic distribution of respondents.</em></p>
+  <p><em>Figure 1. Geographic distribution.</em></p>
 </div>
 
 The gender distribution is predominantly female followed by male respondents, with small shares preferring not to disclose gender.
@@ -32,7 +32,7 @@ Professional experience (**Figure 2**) varies: more than half (**54.8%**) have *
 
 <div align="center">
   <img src="assets/figures/figure-02-experience.png" width="700">
-  <p><em>Figure 2. Professional experience of respondents.</em></p>
+  <p><em>Figure 2. Professional experience.</em></p>
 </div>
 
 ## 2.2 Engagement indicators
@@ -43,7 +43,7 @@ Regarding data sharing (**Figure 3**), **12.5%** are open to sharing data withou
 
 <div align="center">
   <img src="assets/figures/figure-03-sharedata.png" width="700">
-  <p><em>Figure 3. Willingness to share data among respondents.</em></p>
+  <p><em>Figure 3. Willingness to share data.</em></p>
 </div>
 
 Among respondents who are willing to share data in some form, **64.8%** express interest in participating in pilot activities, while **35.2%** do not.
