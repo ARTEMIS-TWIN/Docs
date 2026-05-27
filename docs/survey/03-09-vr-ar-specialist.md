@@ -69,15 +69,15 @@ All detailed cross–tabulations for this profile are available in the correspon
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
-· The VR/AR workflow is strongly centred on **3D pipelines**, with 3D modelling software, game engines and photogrammetry showing almost identical distributions and consistent links to multiple data types. This suggests a relatively compact technological configuration.
+- The VR/AR workflow is strongly centred on **3D pipelines**, with 3D modelling software, game engines and photogrammetry showing almost identical distributions and consistent links to multiple data types. This suggests a relatively compact technological configuration.
 
-· Real-time integration remains limited across technologies, but a distinction emerges between production tools and experiential platforms. While modelling, scanning, and photogrammetry workflows rely on static or pre-recorded datasets, AR, VR, and immersive storytelling environments show a comparatively higher – though still moderate – incidence of dynamic or project-based real-time inputs.
+- Real-time integration remains limited across technologies, but a distinction emerges between production tools and experiential platforms. While modelling, scanning, and photogrammetry workflows rely on static or pre-recorded datasets, AR, VR, and immersive storytelling environments show a comparatively higher – though still moderate – incidence of dynamic or project-based real-time inputs.
 
-· Monitoring challenges in the VR/AR profile are largely operational, with recurring references to data preparation, interoperability, and the availability of reliable source material. Technical constraints of platforms and devices, however, remain equally salient in experience-oriented tools, indicating that bottlenecks are distributed across both data and infrastructure layers.
+- Monitoring challenges in the VR/AR profile are largely operational, with recurring references to data preparation, interoperability, and the availability of reliable source material. Technical constraints of platforms and devices, however, remain equally salient in experience-oriented tools, indicating that bottlenecks are distributed across both data and infrastructure layers.
 
-· The formats landscape is relatively narrow and structured around **3D file formats** and **game engine project files**, with standard multimedia supporting core assets. In contrast, metadata standards, motion-capture formats, and spatial-audio formats are rarely used. This indicates that immersive outputs rely on a concentrated technical stack, with limited diversification of underlying data structures.
+- The formats landscape is relatively narrow and structured around **3D file formats** and **game engine project files**, with standard multimedia supporting core assets. In contrast, metadata standards, motion-capture formats, and spatial-audio formats are rarely used. This indicates that immersive outputs rely on a concentrated technical stack, with limited diversification of underlying data structures.
 
-· In the case of **3D models** (**Figure 39**), perceptions of Digital Twin applications vary sharply across user groups, with frequent users attributing consistently broader relevance across use cases. For simulations, by contrast, the distribution of perceived applications is more even across levels of use.
+- In the case of **3D models** (**Figure 39**), perceptions of Digital Twin applications vary sharply across user groups, with frequent users attributing consistently broader relevance across use cases. For simulations, by contrast, the distribution of perceived applications is more even across levels of use.
 
 <div align="center">
   <img src="assets/figures/figure-39-use-3d-models-vs-digital-twin-usefulness.png" width="900">
