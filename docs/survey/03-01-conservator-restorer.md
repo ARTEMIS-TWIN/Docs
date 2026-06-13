@@ -4,7 +4,7 @@ Full visualisations for this profile are available in the dedicated Google Sheet
 
 [Conservator / Restorer – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=922967408#gid=922967408)
 
-A total of **29 respondents** identified themselves as **Conservator/Restorer**. The Conservator/Restorer respondents represent a specialised group working primarily with the **material preservation of artworks, artefacts, and built heritage components**. They possess strong technical backgrounds and typically operate in contexts where **documentation, diagnostic imaging, and condition assessment** are central to daily practice. Their digital engagement reflects the tools and constraints characteristic of hands-on conservation work.
+A total of **29 respondents** identified themselves as a **Conservator/Restorer**. The Conservator/Restorer respondents represent a specialised group working primarily with the **material preservation of artworks, artefacts, and built heritage components**. They possess strong technical backgrounds and typically operate in contexts where **documentation, diagnostic imaging, and condition assessment** are central to daily practice. Their digital engagement reflects the tools and constraints characteristic of hands-on conservation work.
 
 ## 3.1.1 Digital tools, data practices, and monitoring approaches
 
