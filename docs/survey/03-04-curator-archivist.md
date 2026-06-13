@@ -16,7 +16,7 @@ The monitoring challenges they report align with this low level of technological
 
 ## 3.4.2 Data types and data formats
 
-Because this profile has a very small number of respondents, the results illustrate only general tendencies. Curators and archivists mainly work with **collection metadata**, **digitized images**, and **archival documents**, with occasional use of condition reports, environmental information, or 3D materials.
+Because this profile has a very small number of respondents, the results illustrate only general tendencies. Curators and archivists mainly work with **collection metadata**, **digitised images**, and **archival documents**, with occasional use of condition reports, environmental information, or 3D materials.
 
 Data are available mostly as **unstructured documents**, while collection databases appear less consistently, and more advanced formats – such as metadata schemas, linked data, or 3D models – are barely used.
 
@@ -24,7 +24,7 @@ All respondents indicate that they do not apply formal standards or interoperabi
 
 ## 3.4.3 Data access, structuring, and sharing practices
 
-Curators and archivists report limited digital structuring of the data they manage. Most resources are digitised only in part or exist in unstructured formats, with only a very small share of respondents working in fully searchable systems.
+Curators and archivists report limited digital structuring of the data they manage. Most resources are digitised only in part or exist in unstructured formats, with only a small share of respondents working in fully searchable systems.
 
 Collaboration platforms are used sporadically – typically through institutional channels or external portals – while several respondents express interest in adopting them despite not using any at present.
 
@@ -32,7 +32,7 @@ Difficulties in data sharing are largely systemic: respondents note insufficient
 
 ## 3.4.4 Use of 3D, simulations, and integration of digital tools
 
-Among curators and archivists, the use of **3D models** remains limited: only a few respondents have experimented with them, while others express interest but lack opportunities or resources to adopt such tools. Digital simulations are essentially absent from current practice, though several participants indicate curiosity toward their potential applications.
+Among curators and archivists, the use of **3D models** remains limited: only a few respondents have experimented with them, while others express interest but a lack of opportunities or resources to adopt such tools. Digital simulations are essentially absent from current practice, though several participants indicate curiosity toward their potential applications.
 
 The challenges highlighted reflect this early stage of adoption. Respondents point to **insufficient training**, **high costs**, and **limited institutional support** as the main barriers slowing digital integration. Some note that existing workflows – strongly rooted in traditional documentation practices – make it difficult to introduce new tools, while resistance to change within institutions also plays a role. Only one respondent reports no particular difficulty.
 
