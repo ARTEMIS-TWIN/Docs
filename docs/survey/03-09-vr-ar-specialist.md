@@ -1,4 +1,4 @@
-# 3.9 VR–AR specialist
+# 3.9 VR/AR specialist
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab
 
