@@ -14,10 +14,10 @@ Scientific condition monitoring practices (**Figure 10**) vary widely, combining
 
 <div align="center">
   <img src="assets/figures/figure-10-digital-tools.png" width="700">
-  <p><em>Figure 10. Digital tools or technologies used to monitor condition.</em></p>
+  <p><em>Figure 10. Digital tools or technologies used to monitor conditions.</em></p>
 </div>
 
-The main challenges in monitoring conditions relate to the **high cost of equipment** and the **complexity of interpreting scientific data**, followed by integration issues and difficulties linking measurements to conservation needs.
+The main challenges in monitoring conditions relate to the **high cost of equipment** and the **complexity of interpreting scientific data**, followed by integration issues, and difficulties linking measurements to conservation needs.
 
 ## 3.2.2 Data types, formats, and standards
 
