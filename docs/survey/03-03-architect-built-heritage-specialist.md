@@ -42,7 +42,7 @@ Data sharing (**Figure 17**) remains hindered by recurrent issues such as softwa
 
 ## 3.3.4 3D models, simulations, integration challenges
 
-The use of **3D models** is nearly universal among architects and built–heritage specialists, with both frequent and occasional adoption forming the clear majority. Digital simulations show more varied uptake, with many respondents engaging with them only occasionally or expressing interest without current implementation, indicating an emerging but still uneven practice.
+The use of **3D models** is nearly universal among architects and built–heritage specialists, with both frequent and occasional adoption forming the clear majority. Digital simulations show more varied uptake, with many respondents engaging with them occasionally or expressing interest without current implementation, indicating an emerging but still uneven practice.
 
 Despite this relatively high level of digital engagement, significant barriers persist: high costs, limited technical expertise, interoperability issues and resistance to change all play a substantial role, while difficulties in interpreting or managing digital outputs further constrain integration. These patterns suggest a sector that is digitally active but still navigating structural and organisational obstacles that limit the full incorporation of advanced tools into routine workflows.
 
