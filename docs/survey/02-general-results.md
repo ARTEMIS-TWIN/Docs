@@ -2,7 +2,7 @@
 
 Full visualisations for this section are available in the dedicated Google Sheets workspace:
 
-[General Results – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1847575002#gid=1847575002)
+[General Results – Google Sheets tab](https://doi.org/10.5281/zenodo.20682292)
 
 ## 2.1 Respondent profile
 
