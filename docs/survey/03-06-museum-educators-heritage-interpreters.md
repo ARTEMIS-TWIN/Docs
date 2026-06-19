@@ -1,8 +1,8 @@
 # Museum educators / heritage interpreters
 
-Full visualisations for this profile are available in the dedicated Google Sheets tab.
+Full visualisations for this profile are available in the dedicated section:
 
-[Museum educators / heritage interpreters – Google Sheets tab](https://doi.org/10.5281/zenodo.20681814)
+[Museum educators / heritage interpreters](https://doi.org/10.5281/zenodo.20681814)
 
 This profile includes **31 respondents**. Museum educators and heritage interpreters in the survey present a digitally active profile, with most respondents relying on a wide range of tools for communication, storytelling, content creation and visitor engagement. Only a small minority reports not using digital tools at all.
 
@@ -63,9 +63,9 @@ Looking ahead, most educators anticipate that Digital Twins will play an increas
 
 ## 3.6.6 Cross analysis insights
 
-All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab.
+All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[Museum educators / heritage interpreters – Google Sheets tab](https://doi.org/10.5281/zenodo.20681814)
+[Museum educators / heritage interpreters](https://doi.org/10.5281/zenodo.20681814)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
