@@ -1,8 +1,8 @@
 # Heritage Scientists
 
-Full visualisations for this profile are available in the dedicated Google Sheets tab:
+Full visualisations for this profile are available in the dedicated section:
 
-[Heritage Scientists – Google Sheets tab](https://doi.org/10.5281/zenodo.20681944)
+[Heritage Scientists](https://doi.org/10.5281/zenodo.20681944)
 
 A total of **23 respondents** identified themselves as **Heritage Scientists**. Heritage Scientists represent one of the most technically specialised groups in the survey, working at the intersection of **analytical science**, **diagnostics**, and **material study**. Their activities focus on laboratory and in situ investigations, instrument-based measurements, advanced imaging, and the interpretation of complex datasets. This profile includes professionals operating in research institutes, university laboratories, and heritage science units, typically involved in material characterisation, monitoring, degradation studies, and diagnostic support for conservation.
 
@@ -66,9 +66,9 @@ Looking ahead, views are mixed: some anticipate that Digital Twins will become e
 
 ## 3.2.6 Cross-analysis insights
 
-All detailed cross-tabulations for this profile are available in the corresponding Google Sheets tab.
+All detailed cross-tabulations for this profile are available in the corresponding section:
 
-[Heritage Scientists – Google Sheets tab](https://doi.org/10.5281/zenodo.20681944)
+[Heritage Scientists](https://doi.org/10.5281/zenodo.20681944)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
