@@ -8,7 +8,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### General overview (Section 2)
 
-- [General Results – Google Sheets tab](https://doi.org/10.5281/zenodo.20682292)
+- [General Results](https://doi.org/10.5281/zenodo.20682292)
 
 ---
 
@@ -16,7 +16,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.1.1–3.1.6)
 
-- [Conservator / Restorer – Google Sheets tab](https://doi.org/10.5281/zenodo.20681631)
+- [Conservator / Restorer](https://doi.org/10.5281/zenodo.20681631)
 
 ---
 
@@ -24,7 +24,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.2.1–3.2.6)
 
-- [Heritage Scientist – Google Sheets tab](https://doi.org/10.5281/zenodo.20681944)
+- [Heritage Scientist](https://doi.org/10.5281/zenodo.20681944)
 
 ---
 
@@ -32,7 +32,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.3.1–3.3.6)
 
-- [Architect / Built Heritage Specialist – Google Sheets tab](https://doi.org/10.5281/zenodo.20681425)
+- [Architect / Built Heritage Specialist](https://doi.org/10.5281/zenodo.20681425)
 
 ---
 
@@ -40,7 +40,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts (Sections 3.4.1–3.4.5)
 
-- [Curator / Archivist – Google Sheets tab](https://doi.org/10.5281/zenodo.20682217)
+- [Curator / Archivist](https://doi.org/10.5281/zenodo.20682217)
 
 *(No Section 3.4.6 for this profile.)*
 
@@ -50,7 +50,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.5.1–3.5.6)
 
-- [Historian / Archaeologist – Google Sheets tab](https://doi.org/10.5281/zenodo.20681904)
+- [Historian / Archaeologist](https://doi.org/10.5281/zenodo.20681904)
 
 ---
 
@@ -58,7 +58,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross tabs (Sections 3.6.1–3.6.6)
 
-- [Museum Educators / Heritage Interpreters – Google Sheets tab](https://doi.org/10.5281/zenodo.20681814)
+- [Museum Educators / Heritage Interpreters](https://doi.org/10.5281/zenodo.20681814)
 
 ---
 
@@ -66,7 +66,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.7.1–3.7.6)
 
-- [Digitization Expert – Google Sheets tab](https://doi.org/10.5281/zenodo.20681762)
+- [Digitization Expert](https://doi.org/10.5281/zenodo.20681762)
 
 ---
 
@@ -74,7 +74,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.8.1–3.8.6)
 
-- [Database & Digital Collections Manager – Google Sheets tab](https://doi.org/10.5281/zenodo.20681714)
+- [Database & Digital Collections Manager](https://doi.org/10.5281/zenodo.20681714)
 
 ---
 
@@ -82,7 +82,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts and Cross-tabs (Sections 3.9.1–3.9.6)
 
-- [VR/AR Specialist – Google Sheets tab](https://doi.org/10.5281/zenodo.20682020)
+- [VR/AR Specialist](https://doi.org/10.5281/zenodo.20682020)
 
 ---
 
@@ -90,7 +90,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Charts (Sections 3.10.1–3.10.5)
 
-- [Administration & Management – Google Sheets tab](https://doi.org/10.5281/zenodo.20682086)
+- [Administration & Management](https://doi.org/10.5281/zenodo.20682086)
 
 *(No Section 3.10.6 for this profile.)*
 
@@ -100,7 +100,7 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Training visualisations (Section 4)
 
-- [Training Needs and Preferences – Google Sheets tab](https://doi.org/10.5281/zenodo.20682347)
+- [Training Needs and Preferences](https://doi.org/10.5281/zenodo.20682347)
 
 ---
 
@@ -108,4 +108,4 @@ This appendix provides direct access to the complete set of charts, pivot tables
 
 ### Cross-profile comparative overview (Section 5)
 
-- [General Comparative Overview – Google Sheets tab](https://doi.org/10.5281/zenodo.20682165)
+- [General Comparative Overview](https://doi.org/10.5281/zenodo.20682165)
