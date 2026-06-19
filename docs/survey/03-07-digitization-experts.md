@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab.
 
-[Digitization experts – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=572765000#gid=572765000)
+[Digitization experts – Google Sheets tab](https://doi.org/10.5281/zenodo.20681762)
 
 This profile includes **51 respondents**. Digitisation experts represent one of the most technologically specialised groups in the survey. Their work spans high–resolution imaging, **3D digitisation**, workflow automation and the management of large collections of digital assets. Respondents operate across cultural institutions, research centres and digital production environments, where digitisation is both a technical practice and a key component of documentation, preservation and public access strategies.
 
@@ -65,7 +65,7 @@ Looking ahead, most respondents anticipate that Digital Twins will become essent
 
 All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab.
 
-[Digitization experts – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=803554354#gid=803554354)
+[Digitization experts – Google Sheets tab](https://doi.org/10.5281/zenodo.20681762)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
