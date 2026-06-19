@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab.
 
-[Historians and archaeologists – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1883828773#gid=1883828773)
+[Historians and archaeologists – Google Sheets tab](https://doi.org/10.5281/zenodo.20681904)
 
 Historians and archaeologists, **64 respondents**, represent one of the largest groups, with a strong methodological diversity ranging from archival research to field–based documentation. Their digital practices span GIS, 3D reconstruction, remote sensing, text analysis, and extensive use of online heritage databases. This group combines traditional scholarly approaches with increasingly data–driven methods, making it one of the profiles with the widest spread of digital tool adoption.
 
@@ -58,7 +58,7 @@ Views on the future impact of Digital Twins are mixed. Some respondents expect t
 
 All detailed cross–tabulations for this profile are available in the corresponding Google Sheets tab.
 
-[Historians and archaeologists – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1585991865#gid=1585991865)
+[Historians and archaeologists – Google Sheets tab](https://doi.org/10.5281/zenodo.20681904)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
