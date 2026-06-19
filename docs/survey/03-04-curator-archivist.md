@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated Google Sheets tab.
 
-[Curator / Archivist – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=492373057#gid=492373057)
+[Curator / Archivist – Google Sheets tab](https://doi.org/10.5281/zenodo.20682217)
 
 This profile includes **6 respondents**. This is the smallest group in the survey, and results should be interpreted with caution. While the sample is limited, it still provides a coherent picture of how curators and archivists engage with digital tools, data, and monitoring practices.
 
