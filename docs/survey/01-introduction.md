@@ -10,7 +10,7 @@ Results directly support **WP5 (training design)**, **WP9 (service requirements)
 
 ## 1.2 Methodological note
 
-The analysis is based on aggregated visual outputs generated from the survey dataset. Four analytical layers were used: general charts, training analytics, profile–specific charts and pivot tables for ten professional groups, and cross-profile comparisons for nine of them (the Administration and Management profile is not included inside the comparative overview). All percentages and distributions are derived directly from the survey responses as processed through the project’s Google Sheets architecture.
+The analysis is based on aggregated visual outputs generated from the survey dataset. Four analytical layers were used: general charts, training analytics, profile–specific charts and pivot tables for ten professional groups, and cross-profile comparisons for nine of them (the Administration and Management profile is not included inside the comparative overview). All percentages and distributions are derived directly from the survey responses.
 
 All charts, tables, and visual materials used in this report are provided in two complementary forms.
 
