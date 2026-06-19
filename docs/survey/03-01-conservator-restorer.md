@@ -72,7 +72,7 @@ Looking ahead, most conservators believe Digital Twins will be useful (**Figure 
 
 All detailed cross-tabulations for this profile are available in the corresponding Google Sheets tab.
 
-[Conservator / Restorer – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=2123376096#gid=2123376096)
+[Conservator / Restorer – Google Sheets tab](https://doi.org/10.5281/zenodo.20681631)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
