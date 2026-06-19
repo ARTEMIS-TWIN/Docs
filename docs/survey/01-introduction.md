@@ -15,4 +15,4 @@ The analysis is based on aggregated visual outputs generated from the survey dat
 All charts, tables, and visual materials used in this report are provided in two complementary forms.
 
 1. A selection of key figures is integrated directly into the main text to support the interpretation of results.
-2. The full collection of visualisations — more than 250 charts, pivot tables and summary tables — is referenced in detail in Appendix A.
+2. The full collection of visualisations — more than 250 charts, pivot tables and summary tables — is referenced in detail in Appendix A. Each report section includes a direct reference to the corresponding set of visual materials, allowing readers to access the charts and tables relevant to the specific topic or professional profile under discussion.
