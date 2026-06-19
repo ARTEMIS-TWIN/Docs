@@ -2,7 +2,7 @@
 
 Full visualisations are available in the dedicated Google Sheets tab
 
-[Training needs and preferences – Google Sheets tab](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?gid=1494826500#gid=1494826500)
+[Training needs and preferences – Google Sheets tab](https://doi.org/10.5281/zenodo.20682347)
 
 ## 4.1 Overall interest in ARTEMIS training
 
