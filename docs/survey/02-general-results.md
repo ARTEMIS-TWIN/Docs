@@ -1,8 +1,8 @@
 # General Results
 
-Full visualisations for this section are available in the dedicated Google Sheets workspace:
+Full visualisations for this section are available in the dedicated section:
 
-[General Results – Google Sheets tab](https://doi.org/10.5281/zenodo.20682292)
+[General Results](https://doi.org/10.5281/zenodo.20682292)
 
 ## 2.1 Respondent profile
 
