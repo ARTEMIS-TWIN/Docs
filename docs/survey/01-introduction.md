@@ -15,9 +15,4 @@ The analysis is based on aggregated visual outputs generated from the survey dat
 All charts, tables, and visual materials used in this report are provided in two complementary forms.
 
 1. A selection of key figures is integrated directly into the main text to support the interpretation of results.
-2. The full collection of visualisations — more than **250 charts, pivot tables and summary tables** — is available in the dedicated Google Sheets workspace and is referenced in detail in **Appendix A**.
-
-This online Google Sheets file serves as the extended analytical appendix to the report and allows readers to explore the complete dataset in depth.
-
-**Full dataset and visualisation:**   
-[Survey Report Task 3.4 – Google Sheets workspace](https://docs.google.com/spreadsheets/d/1ifbaVbV-15UzVqxh6cpbuYBN5vWL3QNB4iis-Lq3_gk/edit?usp=sharing)
+2. The full collection of visualisations — more than 250 charts, pivot tables and summary tables — is referenced in detail in Appendix A.
