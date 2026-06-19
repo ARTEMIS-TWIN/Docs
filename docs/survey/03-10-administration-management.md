@@ -1,8 +1,8 @@
 # 3.10 Administration and Management
 
-Full visualisations for this profile are available in the dedicated Google Sheets tab
+Full visualisations for this profile are available in the dedicated section:
 
-[Administration and Management – Google Sheets tab](https://doi.org/10.5281/zenodo.20682086)
+[Administration and Management](https://doi.org/10.5281/zenodo.20682086)
 
 Unlike the other professional profiles, Administration and Management respondents (57 in total) answered a much smaller set of questions focused on institutional strategy, governance, policies, and organisational readiness. The section does not include technical blocks on tools, data types, standards, or workflow practices. As a result, the analysis is intentionally more concise and strategic in nature, reflecting the managerial scope of this profile and the broader, policy–oriented perspective of the respondents.
 
