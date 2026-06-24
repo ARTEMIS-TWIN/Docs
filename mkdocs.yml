@@ -3,7 +3,7 @@ site_name: ARTEMIS-TWIN Documentation
 site_url: https://ARTEMIS-TWIN.github.io/Docs/
 site_author: ARTEMIS contributors
 site_description:
-repo_name: ARTEMIS-TWIN/docs
+repo_name: ARTEMIS-TWIN/Docs
 repo_url: https://github.com/ARTEMIS-TWIN/Docs
 copyright: ARTEMIS TWIN
 theme:
