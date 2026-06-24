@@ -1,0 +1,53 @@
+
+site_name: ARTEMIS-TWIN Documentation
+site_url: https://ARTEMIS-TWIN.github.io/docs/
+site_author: ARTEMIS contributors
+site_description:
+repo_name: ARTEMIS-TWIN/docs
+repo_url: https://github.com/ARTEMIS-TWIN/docs
+copyright: ARTEMIS TWIN
+theme:
+  name: material
+  features:
+    - navigation.sections    # Groups top-level sections in sidebar
+    - navigation.instant     # Faster page transitions
+    - navigation.top         # Back-to-top button
+markdown_extensions:
+  - attr_list
+
+
+nav:
+  - Home: index.md
+
+  - Survey:
+      - Overview: survey/index.md
+
+      - Introduction: survey/01-introduction.md
+      - General Results: survey/02-general-results.md
+
+      - Profile-Specific Results:
+          - Overview: survey/03-profile-specific-results.md
+          - Conservator / Restorer: survey/03-01-conservator-restorer.md
+          - Heritage Scientists: survey/03-02-heritage-scientists.md
+          - Architect / Built Heritage Specialist: survey/03-03-architect-built-heritage-specialist.md
+          - Curator / Archivist: survey/03-04-curator-archivist.md
+          - Historians and Archaeologists: survey/03-05-historians-archaeologists.md
+          - Museum Educators / Heritage Interpreters: survey/03-06-museum-educators-heritage-interpreters.md
+          - Digitization Experts: survey/03-07-digitization-experts.md
+          - Database and Digital Collection Managers: survey/03-08-database-digital-collection-managers.md
+          - VR / AR Specialist: survey/03-09-vr-ar-specialist.md
+          - Administration and Management: survey/03-10-administration-management.md
+
+      - Training Needs and Preferences: survey/04-training-needs-and-preferences.md
+
+      - General Comparative Overview:
+          - Overview: survey/05-general-comparative-overview.md
+          - Digital tools, monitoring practices, and workflow challenges: survey/05-01-digital-tools-monitoring-and-workflow-challenges.md
+          - Data types, formats, and interoperability practices: survey/05-02-data-types-formats-and-interoperability.md
+          - Data organisation, sharing practices and challenges: survey/05-03-data-organisation-sharing-and-challenges.md
+          - 3D models, simulations and integration challenges: survey/05-04-3d-models-simulations-and-integration.md
+          - Digital Twins perceived usefulness, expectations, and future adoption: survey/05-05-digital-twins.md
+          - Cross-profile recurring insights: survey/05-06-cross-profile-recurring-insights.md
+
+      - Appendix A - Visualisations and Tables: survey/appendix-a-visualisations-and-tables.md
+   
