@@ -4,7 +4,7 @@ site_url: https://ARTEMIS-TWIN.github.io/docs/
 site_author: ARTEMIS contributors
 site_description:
 repo_name: ARTEMIS-TWIN/docs
-repo_url: https://github.com/ARTEMIS-TWIN/docs
+repo_url: https://github.com/ARTEMIS-TWIN/Docs
 copyright: ARTEMIS TWIN
 theme:
   name: material
