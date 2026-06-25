@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Architect / Built Heritage Specialist](https://doi.org/10.5281/zenodo.20681425)
+[Architect / Built Heritage Specialist graphs](https://doi.org/10.5281/zenodo.20681425)
 
 A total of **39 respondents** identified themselves as **Architect or Built Heritage Specialist**. This group represents professionals working on the documentation, analysis and management of historic buildings and built environments, often combining architectural practice with heritage conservation. Their responses reflect a domain where digital documentation tools are widely adopted, while monitoring systems and advanced digital workflows show more uneven levels of diffusion.
 
@@ -63,7 +63,7 @@ Looking ahead (**Figure 18**), most professionals anticipate a growing role for 
 
 All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[Architect / Built Heritage Specialist](https://doi.org/10.5281/zenodo.20681425)
+[Architect / Built Heritage Specialist tables](https://doi.org/10.5281/zenodo.20681425)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
