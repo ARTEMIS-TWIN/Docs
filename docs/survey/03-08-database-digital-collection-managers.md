@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Database and digital collection managers](https://doi.org/10.5281/zenodo.20681714)
+[Database and digital collection managers graphs](https://doi.org/10.5281/zenodo.20681714)
 
 Database and digital collection managers operate at the intersection of **data curation**, **metadata structuring**, and **long–term accessibility**. Their role is centred on maintaining the integrity, interoperability, and sustainability of digital heritage records, with a strong emphasis on **standardised data models**, **controlled vocabularies**, and **system integration**. The 28 responses reflect a group with a high level of technical responsibility and a clear awareness of the infrastructural demands of digital preservation.
 
@@ -70,7 +70,7 @@ Looking ahead, respondents remain divided (**Figure 34**): some foresee a centra
 
 All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[Database and digital collection managers](https://doi.org/10.5281/zenodo.20681714)
+[Database and digital collection managers tables](https://doi.org/10.5281/zenodo.20681714)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
