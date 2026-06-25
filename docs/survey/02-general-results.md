@@ -2,7 +2,7 @@
 
 Full visualisations for this section are available in the dedicated section:
 
-[General Results](https://doi.org/10.5281/zenodo.20682292)
+[General Results graphs and tables](https://doi.org/10.5281/zenodo.20682292)
 
 ## 2.1 Respondent profile
 
