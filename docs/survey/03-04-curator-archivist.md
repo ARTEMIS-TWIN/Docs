@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Curator / Archivist](https://doi.org/10.5281/zenodo.20682217)
+[Curator / Archivist graphs](https://doi.org/10.5281/zenodo.20682217)
 
 This profile includes **6 respondents**. This is the smallest group in the survey, and results should be interpreted with caution. While the sample is limited, it still provides a coherent picture of how curators and archivists engage with digital tools, data, and monitoring practices.
 
