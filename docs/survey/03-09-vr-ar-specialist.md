@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[VR–AR specialist](https://doi.org/10.5281/zenodo.20682020)
+[VR–AR specialist graphs](https://doi.org/10.5281/zenodo.20682020)
 
 This profile includes **15 respondents**. VR/AR specialists represent a small but highly technical group within the survey. Their workflows combine immersive technologies, **3D content creation**, and interactive experience design, but adoption patterns vary widely depending on project scale, available data, and institutional support. The limited number of respondents means patterns must be interpreted cautiously, yet several consistent trends do emerge.
 
@@ -63,7 +63,7 @@ Expectations for a **Reactive Digital Twin** focus on dynamic capabilities such 
 
 All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[VR–AR specialist](https://doi.org/10.5281/zenodo.20682020)
+[VR–AR specialist tables](https://doi.org/10.5281/zenodo.20682020)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
