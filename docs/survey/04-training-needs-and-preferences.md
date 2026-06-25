@@ -2,7 +2,7 @@
 
 Full visualisations are available in the dedicated section:
 
-[Training needs and preferences](https://doi.org/10.5281/zenodo.20682347)
+[Training needs and preferences graphs and tables](https://doi.org/10.5281/zenodo.20682347)
 
 ## 4.1 Overall interest in ARTEMIS training
 
