@@ -9,7 +9,7 @@ Full visualisations for this section are available in the dedicated section:
 The survey collected **343 responses** from professionals across **33 countries** (**Figure 1**). Italy represented the largest group (**38.8%**), followed by Greece (**13.7%**), Germany (**7.3%**), Slovenia (**7.0%**), and Belgium (**6.1%**). Additional responses were received from several other European countries, as well as North America and Asia.
 
 <div align="center">
-  <img src="assets/figures/figure-01-chart.png" width="700">
+   <img src="../assets/figures/figure-01-chart.png" width="700">
   <p><em>Figure 1. Geographic distribution.</em></p>
 </div>
 
