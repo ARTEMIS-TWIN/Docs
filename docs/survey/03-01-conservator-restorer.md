@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Conservator / Restorer graphs and tables](https://doi.org/10.5281/zenodo.20681631)
+[Conservator / Restorer graphs](https://doi.org/10.5281/zenodo.20681631)
 
 A total of **29 respondents** identified themselves as a **Conservator/Restorer**. The Conservator/Restorer respondents represent a specialised group working primarily with the **material preservation of artworks, artefacts, and built heritage components**. They possess strong technical backgrounds and typically operate in contexts where **documentation, diagnostic imaging, and condition assessment** are central to daily practice. Their digital engagement reflects the tools and constraints characteristic of hands-on conservation work.
 
@@ -72,7 +72,7 @@ Looking ahead, most conservators believe Digital Twins will be useful (**Figure 
 
 All detailed cross-tabulations for this profile are available in the corresponding section:
 
-[Conservator / Restorer graphs and tables](https://doi.org/10.5281/zenodo.20681631)
+[Conservator / Restorer tables](https://doi.org/10.5281/zenodo.20681631)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
