@@ -9,7 +9,7 @@ Two transversal tendencies emerge.
 2. Second, **simulations remain even less widespread than 3D models** (Figure 50), confirming that scenario–based analysis is still perceived as an advanced, specialist capability rather than a common instrument for planning or evaluation.
 
 <div align="center">
-  <img src="assets/figures/figure-50-digital-simulation-usage.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-50-digital-simulation-usage.png" width="700">
   <p><em>Figure 50. Digital simulation usage.</em></p>
 </div>
 

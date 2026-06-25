@@ -19,7 +19,7 @@ The main difficulties in monitoring relate to cost, integration with traditional
 Architects and built–heritage specialists work with a broad range of data (**Figure 16**), combining geometric and photographic documentation with historical records, material analysis and geospatial information.
 
 <div align="center">
-  <img src="assets/figures/figure-16-data-type.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-16-data-type.png" width="700">
   <p><em>Figure 16. Data type.</em></p>
 </div>
 
@@ -36,7 +36,7 @@ Collaborative platforms are used by a portion of respondents – both institutio
 Data sharing (**Figure 17**) remains hindered by recurrent issues such as software and format incompatibilities, limited institutional infrastructure, legal restrictions and uneven collaboration across actors. Overall, the block highlights a persistent fragmentation in data organisation and a set of structural barriers that constrain fluid information exchange.
 
 <div align="center">
-  <img src="assets/figures/figure-17-sharing-challenges.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-17-sharing-challenges.png" width="700">
   <p><em>Figure 17. Main difficulties in sharing data.</em></p>
 </div>
 
@@ -55,7 +55,7 @@ Expectations for a Reactive Digital Twin extend from access to up–to–date st
 Looking ahead (**Figure 18**), most professionals anticipate a growing role for Digital Twins in architectural conservation, with many considering them essential tools for future preservation workflows, although some foresee adoption occurring only in specific contexts due to cost or complexity barriers.
 
 <div align="center">
-  <img src="assets/figures/figure-18-future-digital-twin.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-18-future-digital-twin.png" width="700">
   <p><em>Figure 18. Future evolution of Digital Twin.</em></p>
 </div>
 
@@ -78,6 +78,6 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Across all technologies (**Figure 19**), continuous data collection remains marginal. Most tools operate either through manual post-processing (notably CAD) or through scheduled and campaign-based acquisition, confirming the limited integration of real-time sensor-based monitoring within architectural workflows.
 
 <div align="center">
-  <img src="assets/figures/figure-19-digital-technologies-vs-data-collection-methods.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-19-digital-technologies-vs-data-collection-methods.png" width="900">
   <p><em>Figure 19. Cross-tabulation (digital technologies vs. data-collection methods).</em></p>
 </div>

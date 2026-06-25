@@ -15,7 +15,7 @@ Digital content is assembled from a wide mix of sources, including open–access
 Monitoring and documentation of visitor engagement follow similar patterns (**Figure 22**): respondents rely on multimedia editing environments, authoring platforms, online learning systems, collaborative content–creation tools, and – more selectively – analytics or survey platforms.
 
 <div align="center">
-  <img src="assets/figures/figure-22-content-tools.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-22-content-tools.png" width="700">
   <p><em>Figure 22. Tools or technologies used to create, manage or evaluate content.</em></p>
 </div>
 
@@ -26,7 +26,7 @@ The main challenges in evaluating the effectiveness of digital activities are st
 Museum educators work with an unusually diverse mix of digital content (**Figure 23**), combining images, videos, textual narratives, interactive media, and increasingly **3D reconstructions**. The prominence of multimedia formats reflects the communicative and educational nature of their role, where visual and audiovisual material forms the core of public engagement. Interactive elements such as digital maps, timelines and gamified content are present but less widespread, and multilingual or inclusive resources remain limited to a smaller subset of practitioners.
 
 <div align="center">
-  <img src="assets/figures/figure-23-data-types.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-23-data-types.png" width="700">
   <p><em>Figure 23. Types of data.</em></p>
 </div>
 
@@ -53,7 +53,7 @@ However, the integration of these tools into everyday practice is hindered by st
 Museum educators express strong interest in **Digital Twins** (**Figure 24**) as tools for enhancing interpretation, accessibility, and audience engagement. The most widely endorsed applications focus on storytelling and immersive learning experiences, including virtual tours, simulations, and contextualised narratives supported by real–time or historical data. Many also see Digital Twins as a way to make fragile or inaccessible heritage available to wider audiences, as well as an opportunity to strengthen collaboration with curators and other specialists.
 
 <div align="center">
-  <img src="assets/figures/figure-24-digital-twin-usefulness.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-24-digital-twin-usefulness.png" width="700">
   <p><em>Figure 24. Areas where Digital Twin are considered most useful.</em></p>
 </div>
 
@@ -72,7 +72,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Museum educators rely on multimedia and interactive tools (**Figure 25**), with authoring platforms, online learning environments, and high–resolution imagery forming the core of their ecosystems. Data types and formats reflect this integrative workflow, privileging multimedia and presentation formats while making limited use of highly structured or scientific data infrastructures.
 
 <div align="center">
-  <img src="assets/figures/figure-25-digital-tools-vs-data-types.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-25-digital-tools-vs-data-types.png" width="900">
   <p><em>Figure 25. Cross-tabulation (digital tools and technologies vs. data types).</em></p>
 </div>
 
@@ -83,6 +83,6 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Integration challenges for both 3D models and simulations (**Figure 26**) are primarily operational, centred on limited time, resources, and digital skills, with technical complexity emerging particularly among occasional users. Resistance or institutional opposition plays a comparatively minor role.
 
 <div align="center">
-  <img src="assets/figures/figure-26-3d-simulation-vs-integration-challenges.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-26-3d-simulation-vs-integration-challenges.png" width="900">
   <p><em>Figure 26. Cross-tabulation (use of 3d models and simulation vs. data integration challenges).</em></p>
 </div>

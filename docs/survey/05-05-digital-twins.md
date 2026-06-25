@@ -13,7 +13,7 @@ Differences appear in the specific functions emphasised. Conservators and herita
 Future expectations are surprisingly coherent across profiles (Figure 51). Most respondents frame Digital Twins as tools that will become **essential or contextually useful in the coming years**, with only minor reservations linked to costs or implementation complexity. The shared optimism indicates that Digital Twins are perceived less as a niche technical innovation and more as a **structural evolution of digital practice in cultural heritage**.
 
 <div align="center">
-  <img src="assets/figures/figure-51-expected-future-evolution-of-digital-twin-adoption.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-51-expected-future-evolution-of-digital-twin-adoption.png" width="700">
   <p><em>Figure 51. Expected future evolution of Digital Twin adoption.</em></p>
 </div>
 

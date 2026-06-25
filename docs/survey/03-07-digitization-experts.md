@@ -31,7 +31,7 @@ Access to digitised data among digitization experts is highly uneven. While many
 Collaboration practices follow a similar pattern (**Figure 27**). Although some teams rely on internal or open–source platforms for coordination, the majority expresses interest in adopting such tools but has not yet done so. This suggests that collaborative infrastructures are either underdeveloped or unevenly supported within institutions.
 
 <div align="center">
-  <img src="assets/figures/figure-27-collaborative-platform-usage.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-27-collaborative-platform-usage.png" width="700">
   <p><em>Figure 27. Collaborative digital platform usage.</em></p>
 </div>
 
@@ -42,7 +42,7 @@ Barriers to data sharing are substantial and widely experienced. Respondents poi
 Digitisation experts make extensive use of **3D technologies** (**Figure 28**). The overwhelming majority works frequently with 3D models, reflecting the central role of photogrammetry and 3D scanning in contemporary digitisation workflows. Digital simulations are less established but show clear potential: while only a smaller fraction uses them regularly, many respondents express strong interest in adopting simulation–based approaches for quality control, workflow optimisation, or virtual testing environments.
 
 <div align="center">
-  <img src="assets/figures/figure-28-use-of-3d-models.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-28-use-of-3d-models.png" width="700">
   <p><em>Figure 28. Use of 3D models.</em></p>
 </div>
 
@@ -55,7 +55,7 @@ For digitisation experts, **Digital Twins** are perceived primarily as tools tha
 Expectations for Reactive Digital Twins centre on practical workflow support (**Figure 29**): a unified point of access for all digitised materials and metadata, real–time environmental information from sites, and mechanisms for version control, error detection, and consistency checks. Integration with external archives and research infrastructures is considered crucial, alongside the possibility of sharing interoperable models across institutions.
 
 <div align="center">
-  <img src="assets/figures/figure-29-reactive-digital-twin-support.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-29-reactive-digital-twin-support.png" width="700">
   <p><em>Figure 29. Information or support expected from Reactive Digital Twins.</em></p>
 </div>
 
@@ -78,7 +78,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - 3D acquisition and processing workflows show the strongest and most consistent cross–data associations (**Figure 30**), particularly linking 3D models, raw sensor data, technical metadata, and geospatial information. Rather than replacing 2D imaging, these workflows integrate it within broader multimodal digitization pipelines.
 
 <div align="center">
-  <img src="assets/figures/figure-30-digital-tools-vs-data-types.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-30-digital-tools-vs-data-types.png" width="900">
   <p><em>Figure 30. Cross-tabulation (digital tools or technologies vs. data types).</em></p>
 </div>
 

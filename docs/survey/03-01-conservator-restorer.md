@@ -15,14 +15,14 @@ Data are generally collected manually or at specific moments of the conservation
 Condition monitoring practices (**Figure 4**) rely largely on **environmental sensors** and **data loggers**, whereas structural or hyperspectral monitoring remains less common.
 
 <div align="center">
-  <img src="assets/figures/figure-04-digital-tools.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-04-digital-tools.png" width="700">
   <p><em>Figure 4. Digital tools or technologies.</em></p>
 </div>
 
 The main challenges in monitoring conditions (**Figure 5**) reported include the **high cost of equipment**, difficulties in maintaining digital tools, and the **complexity of interpreting diagnostic data**, especially when integrating digital and traditional conservation practices.
 
 <div align="center">
-  <img src="assets/figures/figure-05-monitoring-challenges.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-05-monitoring-challenges.png" width="700">
   <p><em>Figure 5. Main challenges monitoring conditions.</em></p>
 </div>
 
@@ -49,7 +49,7 @@ The use of **3D models** among conservators remains limited: most employ them on
 Digital simulations (**Figure 6**) – such as modelling degradation or testing restoration scenarios – are even less common, with only a few practitioners having experimented with them. Interest, however, is present, indicating potential for growth if adequate support becomes available.
 
 <div align="center">
-  <img src="assets/figures/figure-06-digital-simulation.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-06-digital-simulation.png" width="700">
   <p><em>Figure 6. Digital Simulation usage.</em></p>
 </div>
 
@@ -64,7 +64,7 @@ Expectations focus on having access to **updated condition data**, **deteriorati
 Looking ahead, most conservators believe Digital Twins will be useful (**Figure 7**) – either broadly or in selected contexts – although a smaller group anticipates that adoption may remain limited due to cost or technical complexity; none expect them to have no impact at all.
 
 <div align="center">
-  <img src="assets/figures/figure-07-future-digital-twin.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-07-future-digital-twin.png" width="700">
   <p><em>Figure 7. Future evolution of Digital Twin.</em></p>
 </div>
 
@@ -81,7 +81,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - The comparison across monitoring tools (**Figure 8**) shows differentiated patterns of difficulty: **environmental sensors** are mainly associated with **high costs**, **data loggers** with maintenance burdens, and **continuous monitoring systems** with data interpretation challenges, suggesting a potential gap between technological capability and organisational capacity.
 
 <div align="center">
-  <img src="assets/figures/figure-08-cross-monitoring-challenges.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-08-cross-monitoring-challenges.png" width="900">
   <p><em>Figure 8. Cross-tabulation (monitoring tools vs. challenges). </em></p>
 </div>
 
@@ -90,7 +90,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - Respondents who use **3D models** (**Figure 9**) report significant challenges related to **costs**, **institutional support**, and **integration with traditional documentation practices**. These patterns suggest that 3D adoption is associated with organisational and infrastructural demands that remain only partially supported.
 
 <div align="center">
-  <img src="assets/figures/figure-09-cross-3d-integration.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-09-cross-3d-integration.png" width="900">
   <p><em>Figure 9. Cross-tabulation (use of 3D models vs. integration challenges).</em></p>
 </div>
 

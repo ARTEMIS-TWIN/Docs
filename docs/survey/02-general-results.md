@@ -9,7 +9,7 @@ Full visualisations for this section are available in the dedicated section:
 The survey collected **343 responses** from professionals across **33 countries** (**Figure 1**). Italy represented the largest group (**38.8%**), followed by Greece (**13.7%**), Germany (**7.3%**), Slovenia (**7.0%**), and Belgium (**6.1%**). Additional responses were received from several other European countries, as well as North America and Asia.
 
 <div align="center">
-   <img src="assets/figures/figure-01-chart.png" width="700">
+   <img src="/Docs/survey/assets/figures/figure-01-chart.png" width="700">
   <p><em>Figure 1. Geographic distribution.</em></p>
 </div>
 
@@ -31,7 +31,7 @@ Participants identified themselves across four broad professional domains:
 Professional experience (**Figure 2**) varied: more than half (**54.8%**) had **8+ years of experience**, followed by medium-career practitioners (**4–8 years: 20.1%**), early-career professionals (**1–3 years: 16%**), and newcomers (**less than 1 year: 9%**).
 
 <div align="center">
-  <img src="assets/figures/figure-02-experience.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-02-experience.png" width="700">
   <p><em>Figure 2. Professional experience.</em></p>
 </div>
 
@@ -42,7 +42,7 @@ A majority of respondents (**61.2%**) subscribed to the ARTEMIS newsletter. Inte
 Regarding data sharing (**Figure 3**), **12.5%** were open to sharing data without major restrictions, while **32%** would share under specific conditions. A further **23%** stated that willingness depends on the type of data involved. Only **6%** reported that sharing was not possible due to legal or institutional constraints, while **25%** were unsure or noted that the decision did not fall within their responsibilities.
 
 <div align="center">
-  <img src="assets/figures/figure-03-sharedata.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-03-sharedata.png" width="700">
   <p><em>Figure 3. Willingness to share data.</em></p>
 </div>
 

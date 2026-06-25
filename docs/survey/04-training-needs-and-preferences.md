@@ -24,7 +24,7 @@ Overall, the majority of respondents fall into the **“yes”** or **“maybe�
 Respondents express diverse preferences regarding the format of potential ARTEMIS training. The distribution is as follows (Figure 43):
 
 <div align="center">
-  <img src="assets/figures/figure-43-preferred-format.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-43-preferred-format.png" width="700">
   <p><em>Figure 43. Preferred format.</em></p>
 </div>
 
@@ -50,7 +50,7 @@ Overall, the results indicate that training should prioritise online accessibili
 Familiarity with established learning platforms is uneven (Figure 44). **Europeana Pro** is by far the most recognised resource, known by **128 respondents (37.3%)**, followed at a distance by **DARIAH Campus (69 respondents, 20.1%)** and **ARIADNEplus Training Hub (68 respondents, 19.8%)**. Other platforms such as Programming Historian, CARARE, OER Commons, Coursera or Moodle register much lower levels of awareness, each below 11%.
 
 <div align="center">
-  <img src="assets/figures/figure-44-learning-platform-familiarity.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-44-learning-platform-familiarity.png" width="700">
   <p><em>Figure 44. Learning platform familiarity.</em></p>
 </div>
 
@@ -69,7 +69,7 @@ This distribution suggests that English should serve as the primary training lan
 Respondents evaluated their familiarity with eleven digital topics and then indicated their interest in receiving training on the same areas. The combined results reveal a clear pattern: familiarity is generally low, while interest in training is significantly higher – especially in the areas that align most closely with the ARTEMIS mission (Figure 45).
 
 <div align="center">
-  <img src="assets/figures/figure-45-familiarity-vs-interest-digital-skills.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-45-familiarity-vs-interest-digital-skills.png" width="700">
   <p><em>Figure 45. Familiarity with selected topics vs. Interest in learning more.</em></p>
 </div>
 
@@ -94,7 +94,7 @@ The cross–analysis of training data by functional role highlights clear differ
 Average familiarity scores confirm strong role–specific orientations (Figure 46). **Digitisation experts** and **VR/AR specialists** show the highest confidence in advanced 3D workflows, immersive tools and simulation environments, while **database and digital collection managers** exhibit the strongest familiarity with metadata standards, semantic modelling and data aggregation. By contrast, conservators, curators and archivists display notably lower familiarity across most topics, particularly in areas such as Digital Twins, semantic modelling, and simulation analysis. Architects, built–heritage specialists and historians occupy an intermediate position: they use a wide array of digital tools but show uneven familiarity with specialised data–integration or semantic frameworks.
 
 <div align="center">
-  <img src="assets/figures/figure-46-functional-role-topics-familiarity.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-46-functional-role-topics-familiarity.png" width="700">
   <p><em>Figure 46. Functional role vs. topics familiarity</em></p>
 </div>
 

@@ -13,7 +13,7 @@ Heritage Scientists make extensive use of analytical and diagnostic tools, parti
 Scientific condition monitoring practices (**Figure 10**) vary widely, combining **environmental sensors**, **remote sensing platforms**, and **scientific data loggers**, although a notable share does not use digital monitoring tools at all.
 
 <div align="center">
-  <img src="assets/figures/figure-10-digital-tools.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-10-digital-tools.png" width="700">
   <p><em>Figure 10. Digital tools or technologies used to monitor conditions.</em></p>
 </div>
 
@@ -26,7 +26,7 @@ Heritage Scientists work with a diverse landscape of scientific data, ranging fr
 Data are stored (**Figure 11**) across multiple formats: **tabular files** and **scientific image formats** are the most common, while spectral formats, proprietary software outputs, and **3D models** are also well represented.
 
 <div align="center">
-  <img src="assets/figures/figure-11-data-format.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-11-data-format.png" width="700">
   <p><em>Figure 11. Data format.</em></p>
 </div>
 
@@ -37,7 +37,7 @@ Despite this diversity, the adoption of standards remains limited. A minority us
 Data accessibility (**Figure 12**) among Heritage Scientists is uneven: some work within structured and searchable systems, while many rely on datasets that are scattered across multiple repositories or only partially digitised.
 
 <div align="center">
-  <img src="assets/figures/figure-12-data-accessibility.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-12-data-accessibility.png" width="700">
   <p><em>Figure 12. Data structure and accessibility.</em></p>
 </div>
 
@@ -58,7 +58,7 @@ Heritage Scientists express **strong interest** in **Digital Twins**, particular
 Expectations for a Reactive Digital Twin (**Figure 13**) focus on accessing **high-resolution diagnostic imaging**, **environmental sensor data**, integrated datasets from past research, and predictive simulations of deterioration, alongside tools for virtual testing of conservation treatments.
 
 <div align="center">
-  <img src="assets/figures/figure-13-reactive-digital-twin.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-13-reactive-digital-twin.png" width="700">
   <p><em>Figure 13. Information or support expected from Reactive Digital Twins.</em></p>
 </div>
 
@@ -79,14 +79,14 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - The relationship between platform adoption and data-sharing challenges is nuanced. Users of collaborative platforms continue to report compatibility, legal and infrastructural barriers, and the distribution of reported difficulties does not differ structurally from that of non-users. Platform adoption therefore appears insufficient, on its own, to resolve systemic sharing constraints.
 
 <div align="center">
-  <img src="assets/figures/figure-14-platform-use-vs-sharing-challenges.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-14-platform-use-vs-sharing-challenges.png" width="900">
   <p><em>Figure 14. Cross-tabulation (collaborative platform use vs. sharing challenges).</em></p>
 </div>
 
 - Spectroscopy techniques, digital microscopy and portable instruments form a tightly interconnected analytical cluster (**Figure 15**), characterised by similar data-type distributions. In contrast, 3D tools and environmental sensors display structurally distinct data profiles, indicating functional specialisation rather than hierarchy.
 
 <div align="center">
-  <img src="assets/figures/figure-15-digital-tools-vs-data-types.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-15-digital-tools-vs-data-types.png" width="900">
   <p><em>Figure 15. Cross-tabulation (digital tools or technologies vs. data types).</em></p>
 </div>
 

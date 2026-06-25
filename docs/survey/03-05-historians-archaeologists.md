@@ -13,7 +13,7 @@ Historians and archaeologists use a broad and mature digital ecosystem, reflecti
 Data acquisition (**Figure 20**) is highly diversified: respondents combine fieldwork (excavation, surveying, direct documentation), library and archival research, digital repositories, and reused datasets from previous projects. This hybrid workflow mirrors the interdisciplinary nature of the field. Drone–based mapping, GPS/total stations, and remote sensing are also common, though a notable minority still reports not using digital tools for site monitoring.
 
 <div align="center">
-  <img src="assets/figures/figure-20-data-collection-methods.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-20-data-collection-methods.png" width="700">
   <p><em>Figure 20. Methods for collecting or accessing digital resources.</em></p>
 </div>
 
@@ -42,7 +42,7 @@ Use of **3D modelling** is widespread among historians and archaeologists, with 
 The challenges associated (**Figure 21**) with integrating these tools into research are substantial. Insufficient technical training is the most common barrier, followed by difficulties in aligning digital outputs with traditional analytical workflows. Many respondents highlight persistent fragmentation between digital and non-digital sources, reflecting the complex documentation landscape typical of historical and archaeological research. Limited institutional support and cultural resistance within the field also hinder more systematic adoption. Only a small minority reports no major difficulties, confirming that the transition toward digitally integrated research remains uneven.
 
 <div align="center">
-  <img src="assets/figures/figure-21-integration-challenges.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-21-integration-challenges.png" width="700">
   <p><em>Figure 21. Main challenges in integrating digital technologies.</em></p>
 </div>
 

@@ -13,7 +13,7 @@ Collaboration practices reinforce this picture of fragmentation. Humanities–or
 The challenges in sharing data and resources (Figure 49) confirm this structural divide.
 
 <div align="center">
-  <img src="assets/figures/figure-49-main-challenges-in-sharing-data-and-resources.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-49-main-challenges-in-sharing-data-and-resources.png" width="700">
   <p><em>Figure 49. Main challenges in sharing data and resources.</em></p>
 </div>
 

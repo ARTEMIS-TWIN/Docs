@@ -17,7 +17,7 @@ Practices to monitor performance, usage or experience of VR/AR applications foll
 The challenges reported when working with data are primarily technical and infrastructural (**Figure 36**). Respondents cite platform constraints, data interoperability issues, and the substantial time required for data preparation and cleaning. Additional difficulties include limited access to accurate or high–quality reference data and institutional barriers to obtaining source material. Notably, no respondent indicated an absence of challenges, underscoring the persistent complexity of VR/AR work in the heritage sector.
 
 <div align="center">
-  <img src="assets/figures/figure-36-working-with-data-main-challenges.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-36-working-with-data-main-challenges.png" width="700">
   <p><em>Figure 36. Working with data main challenges.</em></p>
 </div>
 
@@ -28,7 +28,7 @@ VR/AR specialists work with a focused but technically demanding set of data type
 The formats used to deliver content are similarly specialised (**Figure 37**): 3D model formats and game–engine project files dominate, together with standard multimedia resources needed for narration and visual support. Metadata files are used by part of the group, while motion–capture or spatial–audio formats are largely absent, suggesting that high–end immersive pipelines are not yet widespread in heritage–focused projects.
 
 <div align="center">
-  <img src="assets/figures/figure-37-data-formats.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-37-data-formats.png" width="700">
   <p><em>Figure 37. Data format.</em></p>
 </div>
  
@@ -49,7 +49,7 @@ Most VR/AR specialists have hands–on experience with 3D models, which form the
 Integration challenges reflect the distance between immersive development workflows and institutional heritage systems (**Figure 38**). Limited staff training and technical expertise emerge as the most widespread barrier, followed by budget constraints that restrict experimentation with advanced tools. Respondents also point to difficulties aligning immersive outputs with curatorial or interpretive objectives and to uneven compatibility with existing infrastructures or databases. Only one participant reports no major obstacles, confirming that integration remains a structural challenge for VR/AR work in cultural heritage.
 
 <div align="center">
-  <img src="assets/figures/figure-38-main-challenges-integrating-digital-technologies.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-38-main-challenges-integrating-digital-technologies.png" width="700">
   <p><em>Figure 38. Main challenges in integrating digital technologies.</em></p>
 </div>
 
@@ -78,6 +78,6 @@ These insights derive from comparative cross-tabulations across the profile-spec
 - In the case of **3D models** (**Figure 39**), perceptions of Digital Twin applications vary sharply across user groups, with frequent users attributing consistently broader relevance across use cases. For simulations, by contrast, the distribution of perceived applications is more even across levels of use.
 
 <div align="center">
-  <img src="assets/figures/figure-39-use-3d-models-vs-digital-twin-usefulness.png" width="900">
+  <img src="/Docs/survey/assets/figures/figure-39-use-3d-models-vs-digital-twin-usefulness.png" width="900">
   <p><em>Figure 39. Cross-tabulation (use 3D models vs.areas where Digital Twins are considered useful).</em></p>
 </div>

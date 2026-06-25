@@ -3,7 +3,7 @@
 Across profiles, this block reveals a clear picture (Figure 48):
 
 <div align="center">
-  <img src="assets/figures/figure-48-data-types.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-48-data-types.png" width="700">
   <p><em>Figure 48. Data types.</em></p>
 </div>
 

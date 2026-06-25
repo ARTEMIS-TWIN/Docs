@@ -5,7 +5,7 @@ Across all profiles, the cross–analysis reveals one main insight: digital acti
 Only two roles (Figure 47) – **database managers** and **conservators** – rely substantially on **real–time or regularly updated data**. All other profiles remain predominantly manual, confirming that real–time data flows are an exception in the sector rather than a shared practice.
 
 <div align="center">
-  <img src="assets/figures/figure-47-methods-to-collect-data.png" width="700">
+  <img src="/Docs/survey/assets/figures/figure-47-methods-to-collect-data.png" width="700">
   <p><em>Figure 47. Methods to collect data.</em></p>
 </div>
 
