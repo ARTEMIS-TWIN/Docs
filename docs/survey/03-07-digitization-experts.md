@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Digitization experts](https://doi.org/10.5281/zenodo.20681762)
+[Digitization experts graphs](https://doi.org/10.5281/zenodo.20681762)
 
 This profile includes **51 respondents**. Digitisation experts represent one of the most technologically specialised groups in the survey. Their work spans high–resolution imaging, **3D digitisation**, workflow automation and the management of large collections of digital assets. Respondents operate across cultural institutions, research centres and digital production environments, where digitisation is both a technical practice and a key component of documentation, preservation and public access strategies.
 
@@ -65,7 +65,7 @@ Looking ahead, most respondents anticipate that Digital Twins will become essent
 
 All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[Digitization experts](https://doi.org/10.5281/zenodo.20681762)
+[Digitization experts tables](https://doi.org/10.5281/zenodo.20681762)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
