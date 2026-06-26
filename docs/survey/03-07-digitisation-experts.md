@@ -18,15 +18,15 @@ The main challenges reported in monitoring or ensuring data quality reflect stru
 
 ## 3.7.2 Data types, formats and standards
 
-Digitisation experts work with a highly diverse and technically demanding range of outputs. Unsurprisingly, **2D images** and **3D models** constitute the core of their production, with 3D formats emerging as the most common output across respondents. Many practitioners also manage raw sensor data, technical metadata, and geospatial or project documentation, reflecting the multi–layered nature of contemporary digitization workflows.
+Digitisation experts work with a highly diverse and technically demanding range of outputs. Unsurprisingly, **2D images** and **3D models** constitute the core of their production, with 3D formats emerging as the most common output across respondents. Many practitioners also manage raw sensor data, technical metadata, and geospatial or project documentation, reflecting the multi–layered nature of contemporary digitisation workflows.
 
 Data delivery formats closely mirror this diversity: standard image formats and 3D models dominate, while RAW files, proprietary software outputs, and tabular datasets highlight the coexistence of archival preservation requirements, technical processing needs, and institutional constraints. Structured metadata formats such as XML, RDF, or JSON appear in a more limited but meaningful subset of cases, typically in more mature or interoperable environments.
 
-The picture changes sharply when looking at standards and interoperability practices. A clear majority of respondents do not work with any established metadata or interoperability standard, suggesting that digitization outputs – despite being technically advanced – are often not embedded in wider organisational data ecosystems. Among those who do adopt standards, usage is scattered across frameworks such as Dublin Core, CIDOC CRM, IIIF, OGC formats, and Linked Data models, with no single widely adopted protocol. This fragmentation reinforces the gap between high–end digitization techniques and the comparatively uneven standardisation landscape in heritage institutions.
+The picture changes sharply when looking at standards and interoperability practices. A clear majority of respondents do not work with any established metadata or interoperability standard, suggesting that digitisation outputs – despite being technically advanced – are often not embedded in wider organisational data ecosystems. Among those who do adopt standards, usage is scattered across frameworks such as Dublin Core, CIDOC CRM, IIIF, OGC formats, and Linked Data models, with no single widely adopted protocol. This fragmentation reinforces the gap between high–end digitisation techniques and the comparatively uneven standardisation landscape in heritage institutions.
 
 ## 3.7.3 Data accessibility, collaboration and sharing barriers
 
-Access to digitised data among digitization experts is highly uneven. While many respondents work within structured archives or institutional repositories, an equally large share still manages files in loosely organised folders or unstructured environments. Only a minority operates through dedicated DAM systems or institution–wide platforms, and fragmented storage across multiple systems remains common – highlighting persistent gaps in interoperability and long–term data governance.
+Access to digitised data among digitisation experts is highly uneven. While many respondents work within structured archives or institutional repositories, an equally large share still manages files in loosely organised folders or unstructured environments. Only a minority operates through dedicated DAM systems or institution–wide platforms, and fragmented storage across multiple systems remains common – highlighting persistent gaps in interoperability and long–term data governance.
 
 Collaboration practices follow a similar pattern (**Figure 27**). Although some teams rely on internal or open–source platforms for coordination, the majority expresses interest in adopting such tools but has not yet done so. This suggests that collaborative infrastructures are either underdeveloped or unevenly supported within institutions.
 
@@ -35,7 +35,7 @@ Collaboration practices follow a similar pattern (**Figure 27**). Although some 
   <p><em>Figure 27. Collaborative digital platform usage.</em></p>
 </div>
 
-Barriers to data sharing are substantial and widely experienced. Respondents point to infrastructural limitations, compatibility issues, and institutional restrictions as the most significant obstacles. Concerns about intellectual property and metadata inconsistency further complicate dissemination, while limited cross–institutional collaboration reinforces the siloed nature of digitisation work. Only a very small number reports no major difficulties, confirming that data sharing remains one of the most structurally constrained areas in digitization workflows.
+Barriers to data sharing are substantial and widely experienced. Respondents point to infrastructural limitations, compatibility issues, and institutional restrictions as the most significant obstacles. Concerns about intellectual property and metadata inconsistency further complicate dissemination, while limited cross–institutional collaboration reinforces the siloed nature of digitisation work. Only a very small number reports no major difficulties, confirming that data sharing remains one of the most structurally constrained areas in digitisation workflows.
 
 ## 3.7.4 3D models, simulations, and integration challenges
 
@@ -65,7 +65,7 @@ Looking ahead, most respondents anticipate that Digital Twins will become essent
 
 All detailed cross–tabulations for this profile are available in the corresponding section:
 
-[Digitization experts tables](https://doi.org/10.5281/zenodo.20681762)
+[Digitisation experts tables](https://doi.org/10.5281/zenodo.20681762)
 
 These insights derive from comparative cross-tabulations across the profile-specific tables. The analysis focuses on relative response distributions within each row to identify structural patterns across technological groups, rather than relying on absolute counts.
 
@@ -75,7 +75,7 @@ These insights derive from comparative cross-tabulations across the profile-spec
 
 - Sharing barriers differ by platform type and adoption level: internal platforms are more frequently associated with legal and intellectual property constraints, whereas external platforms and prospective users emphasise infrastructure limitations and technical compatibility issues.
 
-- 3D acquisition and processing workflows show the strongest and most consistent cross–data associations (**Figure 30**), particularly linking 3D models, raw sensor data, technical metadata, and geospatial information. Rather than replacing 2D imaging, these workflows integrate it within broader multimodal digitization pipelines.
+- 3D acquisition and processing workflows show the strongest and most consistent cross–data associations (**Figure 30**), particularly linking 3D models, raw sensor data, technical metadata, and geospatial information. Rather than replacing 2D imaging, these workflows integrate it within broader multimodal digitisation pipelines.
 
 <div align="center">
   <img src="/Docs/survey/assets/figures/figure-30-digital-tools-vs-data-types.png" width="900">
@@ -84,6 +84,6 @@ These insights derive from comparative cross-tabulations across the profile-spec
 
 - Despite the technical maturity of 3D acquisition and processing pipelines, data capture remains predominantly manual or campaign-based, with real-time automated systems playing a comparatively minor role across core tools.
 
-- Digital Twin use is primarily understood as an extension of existing 3D digitisation infrastructures. Digital Twins are widely perceived as a natural evolution of current digitization pipelines rather than a disruptive innovation.
+- Digital Twin use is primarily understood as an extension of existing 3D digitisation infrastructures. Digital Twins are widely perceived as a natural evolution of current digitisation pipelines rather than a disruptive innovation.
 
-- Despite the technical sophistication of digitization workflows, structured metadata formats (e.g., XML, RDF, JSON) do not dominate across data categories. Even 3D models and raw sensor data remain strongly associated with standard image and proprietary formats, indicating that semantic and interoperable data infrastructures are still unevenly implemented.
+- Despite the technical sophistication of digitisation workflows, structured metadata formats (e.g., XML, RDF, JSON) do not dominate across data categories. Even 3D models and raw sensor data remain strongly associated with standard image and proprietary formats, indicating that semantic and interoperable data infrastructures are still unevenly implemented.
