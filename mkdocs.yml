@@ -13,7 +13,7 @@ theme:
     - navigation.instant     # Faster page transitions
     - navigation.top         # Back-to-top button
 extra_css:
-  - assets/stylesheets/extra.css
+  - survey/assets/stylesheets/extra.css
 markdown_extensions:
   - attr_list
 
