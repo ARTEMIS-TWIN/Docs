@@ -2,7 +2,7 @@
 
 Full visualisations for this profile are available in the dedicated section:
 
-[Digitization experts graphs](https://doi.org/10.5281/zenodo.20681762)
+[Digitisation experts graphs](https://doi.org/10.5281/zenodo.20681762)
 
 This profile includes **51 respondents**. Digitisation experts represent one of the most technologically specialised groups in the survey. Their work spans high–resolution imaging, **3D digitisation**, workflow automation and the management of large collections of digital assets. Respondents operate across cultural institutions, research centres and digital production environments, where digitisation is both a technical practice and a key component of documentation, preservation and public access strategies.
 
