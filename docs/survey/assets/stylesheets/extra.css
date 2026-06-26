@@ -1,1 +1,9 @@
-
+.md-content::before {
+    content: "";
+    display: block;
+    height: 90px;
+    margin-bottom: 2rem;
+    background: #0c3b63 url("../logo/ARTEMIS-Logo_Horizontal_Full_Color.png") center center no-repeat;
+    background-size: 260px auto;
+    border-radius: 6px;
+}
